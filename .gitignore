@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter auto-generated folders
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store

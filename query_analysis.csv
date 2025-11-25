@@ -1,0 +1,1272 @@
+conversation,cluster_final,cluster_name,timestamp,failure_mode,in_scope
+"i need 8 megawatts, what sites can provide this in california?",0,German Language - Mixed Content,2025-11-11T20:14:48.597400,Language Barrier + Mixed Scope,Partial
+what is our capacity availability in el segundo currently,0,German Language - Mixed Content,2025-11-11T20:14:13.473357,Language Barrier + Mixed Scope,Partial
+What is the level redundancy of the rectifier system at PAR13,0,German Language - Mixed Content,2025-11-11T09:28:49.803869,Language Barrier + Mixed Scope,Partial
+Explain N+1,2,Corporate Mixed Queries,2025-11-11T09:18:30.332077,No-Hit (Out-of-Scope),Partial
+why not the same pricing regrdless of market,2,Corporate Mixed Queries,2025-11-11T00:35:48.325616,No-Hit (Out-of-Scope),Partial
+"Metro Connect and fiber packs, can you let me know if they are linked to the term of the contract, and can only be terminated upon the end of the term?  Thank you,",4,Site Discovery & Location Queries,2025-11-10T17:17:36.920082,,Yes
+is Service Fabric available at DFW10,1,Connectivity & Cross-Connects,2025-11-10T16:06:43.930198,,Yes
+"=IF('Sheet1 - Report'!M3="""","""",'Sheet1 - Report'!M3) i have this formula in excel. change it so that if Sheet1-Report1 M3 is zero or empty space, then empty spance, otherwise Sheet1-Report1 M3",3,Miscellaneous/Testing,2025-11-10T09:59:08.372488,No-Hit (Out-of-Scope),No
+Please draft a variations clause for me,3,Miscellaneous/Testing,2025-11-10T07:23:26.464908,No-Hit (Out-of-Scope),No
+please draft a clean tracked-change version comparing the old and new clauses side-by-side,3,Miscellaneous/Testing,2025-11-10T06:56:47.733016,No-Hit (Out-of-Scope),No
+"Yes please draft a clean tracked-change version comparing the old and new clauses side-by-side, or provide a summarized table of differences for review.",3,Miscellaneous/Testing,2025-11-10T06:55:50.100194,No-Hit (Out-of-Scope),No
+"yes, please prepare a a side-by-side table or a marked-up version with tracked changes",3,Miscellaneous/Testing,2025-11-10T06:46:22.773370,No-Hit (Out-of-Scope),No
+i am going to send you two different clauses and i need you to do a comparison showing the changes made inline to each clause,3,Miscellaneous/Testing,2025-11-10T06:43:52.601064,No-Hit (Out-of-Scope),No
+can you write me an standard for electrical projects and placing cable ladders and,3,Miscellaneous/Testing,2025-11-10T06:23:11.216050,No-Hit (Out-of-Scope),No
+please optime this,2,Corporate Mixed Queries,2025-11-09T11:52:03.455328,No-Hit (Out-of-Scope),Partial
+so its not tap off unit?,2,Corporate Mixed Queries,2025-11-08T03:16:50.863657,No-Hit (Out-of-Scope),Partial
+what does a tou stand for,2,Corporate Mixed Queries,2025-11-08T03:15:32.854380,No-Hit (Out-of-Scope),Partial
+how do i transfer my signon authorization to a new phone,3,Miscellaneous/Testing,2025-11-07T19:15:56.021129,No-Hit (Out-of-Scope),No
+what is the maximum kw per rack we can support with liquid cooling?,0,German Language - Mixed Content,2025-11-07T14:16:21.201980,Language Barrier + Mixed Scope,Partial
+how many hours of pto do i get at 5 years,2,Corporate Mixed Queries,2025-11-07T13:45:22.521383,No-Hit (Out-of-Scope),Partial
+Please review the attached request for proposal document,3,Miscellaneous/Testing,2025-11-07T08:03:47.632376,No-Hit (Out-of-Scope),No
+i need you to review a request for proposal document by a bank and let me know if there is anything i should take note of from a legal perspective. Please consider yourself as a data centre in house counsel,3,Miscellaneous/Testing,2025-11-07T08:03:01.336854,No-Hit (Out-of-Scope),No
+is this sentence correct: the sum should be pro-rated based on the amount of $x,2,Corporate Mixed Queries,2025-11-07T04:42:23.289548,No-Hit (Out-of-Scope),Partial
+what is the difference between turn key flex and powered based building?,0,German Language - Mixed Content,2025-11-07T02:16:52.976747,Language Barrier + Mixed Scope,Partial
+what is the difference between tkf and pbb?,2,Corporate Mixed Queries,2025-11-07T02:16:09.523563,No-Hit (Out-of-Scope),Partial
+does pathway service include fiber?,4,Site Discovery & Location Queries,2025-11-06T20:22:05.310575,,Yes
+Please walk you through the ServiceFabric offerings to assist in positioning them effectively.,1,Connectivity & Cross-Connects,2025-11-06T18:44:15.435505,,Yes
+"Can you provide a summary of power rates, $ per kW, for all markets where we have presence in EMEA?",0,German Language - Mixed Content,2025-11-06T18:37:50.098212,Language Barrier + Mixed Scope,Partial
+find any documents that mention servicefabric discounts,1,Connectivity & Cross-Connects,2025-11-06T17:29:08.601746,,Yes
+do partners get a discount for reselling servicefabric?,1,Connectivity & Cross-Connects,2025-11-06T17:27:56.321531,,Yes
+yes please,3,Miscellaneous/Testing,2025-11-06T15:53:12.560815,No-Hit (Out-of-Scope),No
+can you find a healthcare whitpaper,3,Miscellaneous/Testing,2025-11-06T15:51:27.512333,No-Hit (Out-of-Scope),No
+what does ola stand for?,2,Corporate Mixed Queries,2025-11-06T15:45:18.247836,No-Hit (Out-of-Scope),Partial
+how secure nexus is?,2,Corporate Mixed Queries,2025-11-06T14:52:57.069768,No-Hit (Out-of-Scope),Partial
+single use plastics,2,Corporate Mixed Queries,2025-11-06T14:52:13.028846,No-Hit (Out-of-Scope),Partial
+are you able to find me is there is a list of connectivity providers for the madrid campus?,4,Site Discovery & Location Queries,2025-11-06T11:52:12.090337,,Yes
+can you word the above response into a rfp response,3,Miscellaneous/Testing,2025-11-06T10:06:31.603892,No-Hit (Out-of-Scope),No
+can you analyze the drawing and give me the area of the cage?,3,Miscellaneous/Testing,2025-11-06T02:11:42.718975,No-Hit (Out-of-Scope),No
+can you give me the area of each cage ?,2,Corporate Mixed Queries,2025-11-06T02:10:54.369912,No-Hit (Out-of-Scope),Partial
+please provide the Compass document,3,Miscellaneous/Testing,2025-11-05T18:17:25.321869,No-Hit (Out-of-Scope),No
+how many customers currently use servicefabric?,1,Connectivity & Cross-Connects,2025-11-05T17:47:02.163244,,Yes
+give me more,2,Corporate Mixed Queries,2025-11-05T17:19:48.053172,No-Hit (Out-of-Scope),Partial
+"Can you provide a market overview for Marseille, France including DLR's competitive value proposition, key competitors - their strengths and weaknesses, power rates, our connectivity options, cloud on-ramps, sub-sea cables, and any other relevant market intel that would benefit a sales person.",4,Site Discovery & Location Queries,2025-11-05T16:32:29.640360,,Yes
+it doesnt work,2,Corporate Mixed Queries,2025-11-05T15:44:19.637579,No-Hit (Out-of-Scope),Partial
+"=IF('Sheet1 - Report'!L3="""";"""";'Sheet1 - Report'!L3)",3,Miscellaneous/Testing,2025-11-05T12:30:13.652751,No-Hit (Out-of-Scope),No
+"improve this formula so that in case the cell is either empty or 0, put empty",3,Miscellaneous/Testing,2025-11-05T12:29:57.596297,No-Hit (Out-of-Scope),No
+and pue by design?,2,Corporate Mixed Queries,2025-11-05T09:51:25.961693,No-Hit (Out-of-Scope),Partial
+can you find our iso document with the number: 12-333 and read that ?,3,Miscellaneous/Testing,2025-11-05T07:44:11.056809,No-Hit (Out-of-Scope),No
+can you help with the danish iso document and read them ?,3,Miscellaneous/Testing,2025-11-05T07:43:12.399699,No-Hit (Out-of-Scope),No
+what are the new builds coming online,4,Site Discovery & Location Queries,2025-11-05T00:47:13.122784,,Yes
+what is the virginia deployment coming online,4,Site Discovery & Location Queries,2025-11-05T00:34:25.965492,,Yes
+what state is this,2,Corporate Mixed Queries,2025-11-05T00:04:12.706232,No-Hit (Out-of-Scope),Partial
+where is there 10mw now,0,German Language - Mixed Content,2025-11-04T23:34:43.740201,Language Barrier + Mixed Scope,Partial
+what are the best sites for a workload needing liquid cooled in 10 mw,0,German Language - Mixed Content,2025-11-04T23:33:19.650188,Language Barrier + Mixed Scope,Partial
+where can i get 5mw,0,German Language - Mixed Content,2025-11-04T23:24:06.137795,Language Barrier + Mixed Scope,Partial
+i need a downloadable pdj,3,Miscellaneous/Testing,2025-11-04T23:20:58.652247,No-Hit (Out-of-Scope),No
+where can i put a 10mw deployment,0,German Language - Mixed Content,2025-11-04T23:11:28.396709,Language Barrier + Mixed Scope,Partial
+yes i want the downloadable excel list now,3,Miscellaneous/Testing,2025-11-04T20:49:16.490897,No-Hit (Out-of-Scope),No
+yes i want a full list in an excel downloadable format that i can share,3,Miscellaneous/Testing,2025-11-04T20:48:30.225673,No-Hit (Out-of-Scope),No
+can you send this list so i can download it,3,Miscellaneous/Testing,2025-11-04T20:17:17.754130,No-Hit (Out-of-Scope),No
+in the usa,2,Corporate Mixed Queries,2025-11-04T19:20:28.393279,No-Hit (Out-of-Scope),Partial
+how can i obtain a copy of our global nda?,3,Miscellaneous/Testing,2025-11-04T17:06:50.545944,No-Hit (Out-of-Scope),No
+"hello, how can i increase my salary?",2,Corporate Mixed Queries,2025-05-28T09:18:41.856579,No-Hit (Out-of-Scope),Partial
+could you analyze the following Text and provide a short summary ?,3,Miscellaneous/Testing,2025-11-04T12:52:17.137584,No-Hit (Out-of-Scope),No
+do you know nicolai kofoed?,2,Corporate Mixed Queries,2025-11-04T10:36:45.489957,No-Hit (Out-of-Scope),Partial
+how much wattage is there in cph1 in denmark,0,German Language - Mixed Content,2025-11-04T10:15:53.985421,Language Barrier + Mixed Scope,Partial
+"What is the PUE target under lower loads? (eg. 1.25 at 100%, what about 50%?)",0,German Language - Mixed Content,2025-11-04T07:09:25.372557,Language Barrier + Mixed Scope,Partial
+What are the planned max rack densities?  How do you plan for technology refreshes?,0,German Language - Mixed Content,2025-11-04T07:01:08.302083,Language Barrier + Mixed Scope,Partial
+"hi, can you provide me with some impressive stats on north american operations ? total mw",0,German Language - Mixed Content,2025-11-04T05:12:06.377291,Language Barrier + Mixed Scope,Partial
+Have we won a deal with Coreweave,2,Corporate Mixed Queries,2025-11-03T16:54:22.334441,No-Hit (Out-of-Scope),Partial
+"i mean you, nexus's development",2,Corporate Mixed Queries,2025-11-03T14:49:57.267237,No-Hit (Out-of-Scope),Partial
+do you use any ai agnt,2,Corporate Mixed Queries,2025-11-03T14:48:25.831614,No-Hit (Out-of-Scope),Partial
+"explain to me in detailed, how nexus is developed",2,Corporate Mixed Queries,2025-11-03T14:43:32.610732,No-Hit (Out-of-Scope),Partial
+what is ServiceFabic,1,Connectivity & Cross-Connects,2025-11-03T14:39:24.678372,,Yes
+so you can visit BMS API?,2,Corporate Mixed Queries,2025-11-03T14:35:37.662913,No-Hit (Out-of-Scope),Partial
+how were you develop,2,Corporate Mixed Queries,2025-11-03T14:32:34.680067,No-Hit (Out-of-Scope),Partial
+what can you do,2,Corporate Mixed Queries,2025-11-03T14:31:55.146816,No-Hit (Out-of-Scope),Partial
+"what is the name of the portal where clients can request cross-connections, remote hands and monitor the power consumption of their equipment?",4,Site Discovery & Location Queries,2025-11-03T14:16:21.807815,,Yes
+price book,2,Corporate Mixed Queries,2025-11-03T13:56:05.528866,No-Hit (Out-of-Scope),Partial
+What is the sense of Nexus Digital?,2,Corporate Mixed Queries,2025-11-03T13:48:53.332566,No-Hit (Out-of-Scope),Partial
+is there a place where i can down oad it directly?,2,Corporate Mixed Queries,2025-11-03T11:16:09.398651,No-Hit (Out-of-Scope),Partial
+and if it is no onramp?,2,Corporate Mixed Queries,2025-11-03T10:18:33.129017,No-Hit (Out-of-Scope),Partial
+what about azure?,2,Corporate Mixed Queries,2025-11-03T10:17:25.255466,No-Hit (Out-of-Scope),Partial
+which capacity is available in singapure?,0,German Language - Mixed Content,2025-11-03T09:49:00.602399,Language Barrier + Mixed Scope,Partial
+kan man säga så härfick en fråga från min chef om ni gör en selectivity test också?,2,Corporate Mixed Queries,2025-11-03T08:41:00.976184,No-Hit (Out-of-Scope),Partial
+how many customers do we have in cph1?,0,German Language - Mixed Content,2025-11-03T07:59:34.471543,Language Barrier + Mixed Scope,Partial
+hej kan du dansk?,2,Corporate Mixed Queries,2025-11-03T07:58:28.802022,No-Hit (Out-of-Scope),Partial
+how much power capacity does coreweave have?,0,German Language - Mixed Content,2025-10-31T17:26:49.798170,Language Barrier + Mixed Scope,Partial
+action bulletin includinf microsoft,3,Miscellaneous/Testing,2025-10-31T16:36:23.281070,No-Hit (Out-of-Scope),No
+provide me and AT&T executive summary,3,Miscellaneous/Testing,2025-10-31T15:38:18.122326,No-Hit (Out-of-Scope),No
+summarize the file,3,Miscellaneous/Testing,2025-10-31T14:27:21.747082,No-Hit (Out-of-Scope),No
+"please make the analysis as above but up to the  Total Corporate G&A Expense, please exclude depreciations and amortizations , the provide a graph with the main deviations as a waterfall in power point",3,Miscellaneous/Testing,2025-10-31T08:41:23.389146,No-Hit (Out-of-Scope),No
+"please analye the figures YTD comparative and baseline, create a table with the highest deviations and the source (e.g. GL), creat then a waterfall graph using the toplines",3,Miscellaneous/Testing,2025-10-31T08:37:37.675691,No-Hit (Out-of-Scope),No
+"Please analyze Page 19 of the attached, create a waterfall graph",3,Miscellaneous/Testing,2025-10-31T08:29:53.808040,No-Hit (Out-of-Scope),No
+analyze page 18 of the attached file and create a waterfal between Budget and Actuals,3,Miscellaneous/Testing,2025-10-31T08:25:08.440230,No-Hit (Out-of-Scope),No
+Please calcilate deviations between actual and budget,3,Miscellaneous/Testing,2025-10-31T08:19:42.991589,No-Hit (Out-of-Scope),No
+what is the capacity of the freight elevator at kix13 in japan?,0,German Language - Mixed Content,2025-10-31T02:20:50.288475,Language Barrier + Mixed Scope,Partial
+can you help me with competitor intelingece?,2,Corporate Mixed Queries,2025-10-30T15:38:49.745395,No-Hit (Out-of-Scope),Partial
+"Please summarize the file I am sharing now, 'DOCX_TestPage.docx.'",3,Miscellaneous/Testing,2025-09-16T15:26:26.182687,No-Hit (Out-of-Scope),No
+What species of oak do you suggest for a smoked brisket?,2,Corporate Mixed Queries,2025-09-16T15:25:45.737093,No-Hit (Out-of-Scope),Partial
+"can you draft me a response to this  question, pleease?""insurance coverage (types and limits).",3,Miscellaneous/Testing,2025-10-29T17:26:11.865766,No-Hit (Out-of-Scope),No
+please correct this: The wether is good today.,2,Corporate Mixed Queries,2025-10-29T15:53:20.125509,No-Hit (Out-of-Scope),Partial
+"i mean, do you have api for nexus",2,Corporate Mixed Queries,2025-10-29T15:18:26.868397,No-Hit (Out-of-Scope),Partial
+what is servicefabric™ platform,1,Connectivity & Cross-Connects,2025-10-29T15:17:31.331624,,Yes
+do you have api,2,Corporate Mixed Queries,2025-10-29T15:16:19.451056,No-Hit (Out-of-Scope),Partial
+What is a good rub recipe for brisket??,2,Corporate Mixed Queries,2025-09-16T15:04:28.743910,No-Hit (Out-of-Scope),Partial
+Show me the technical guide for deploying Fabric Interconnect,4,Site Discovery & Location Queries,2025-09-18T12:25:34.081122,,Yes
+give me a summary of service fabric,1,Connectivity & Cross-Connects,2025-10-27T14:05:52.905981,,Yes
+"no, it is not operational anymore!",2,Corporate Mixed Queries,2025-10-29T08:28:02.401065,No-Hit (Out-of-Scope),Partial
+is it still operational?,2,Corporate Mixed Queries,2025-10-29T08:27:35.661460,No-Hit (Out-of-Scope),Partial
+how can i use this?,2,Corporate Mixed Queries,2025-10-29T02:49:07.234850,No-Hit (Out-of-Scope),Partial
+where did you pull the above data from?,3,Miscellaneous/Testing,2025-10-28T19:34:22.010362,No-Hit (Out-of-Scope),No
+how much space and power is available for lease at 2323 bryan street?,0,German Language - Mixed Content,2025-10-28T19:23:12.470377,Language Barrier + Mixed Scope,Partial
+what does service fabric do?,1,Connectivity & Cross-Connects,2025-10-28T18:51:06.529152,,Yes
+what are footprints?,2,Corporate Mixed Queries,2025-10-28T18:34:18.588807,No-Hit (Out-of-Scope),Partial
+"show count of cages, cabinets and racks by customer for DFW10",0,German Language - Mixed Content,2025-10-28T18:32:45.233363,Language Barrier + Mixed Scope,Partial
+where do I have US avaiability for 300 & 400 KW deployments,0,German Language - Mixed Content,2025-10-28T15:54:51.348671,Language Barrier + Mixed Scope,Partial
+what is the load limit for dfw35 per square foot,0,German Language - Mixed Content,2025-10-28T15:54:09.891555,Language Barrier + Mixed Scope,Partial
+what is the open capacity in atlanta,0,German Language - Mixed Content,2025-10-28T15:53:12.358280,Language Barrier + Mixed Scope,Partial
+what is incident?,2,Corporate Mixed Queries,2025-10-28T15:40:28.419662,No-Hit (Out-of-Scope),Partial
+How much colo space do we have in Tokyo,0,German Language - Mixed Content,2025-10-28T11:58:14.822943,Language Barrier + Mixed Scope,Partial
+provide a graph of this information,3,Miscellaneous/Testing,2025-10-28T11:05:17.945427,No-Hit (Out-of-Scope),No
+Please provide a custom master portfolio for a presentation,3,Miscellaneous/Testing,2025-10-27T20:41:50.019341,No-Hit (Out-of-Scope),No
+summarize the attached file,3,Miscellaneous/Testing,2025-10-27T19:09:04.486486,No-Hit (Out-of-Scope),No
+How are you today?,2,Corporate Mixed Queries,2025-08-04T12:41:39.561499,No-Hit (Out-of-Scope),Partial
+"Edits
+Colocation on DLR global platform
+What service fabric is
+Stand up port to get service into third party destinations
+open and 
+enables access from data centers to third party destinations.
+Couldn't have done this with another service provider
+
+ivision ordered service fabrrc port and stood it up in our portal, ordered Naas on lumen, created a token that stood up internet connection for customer.
+
+50% DLR and 50% Lumen
+
+Needed to spin up internet on demand to resume data transfer.
+
+Enabling service fabric ports allowed connection and access to third party destinations. 
+
+Colocation,
+Fabric enabled nextgen data center. 
+
+ivision had project with end user customer and they ran into an outage issue. Werent able to complete the data transfer until they went 50/50. Prevent service disruption, meet customer objective, maintain credibility, high performance etc.",1,Connectivity & Cross-Connects,2025-10-27T15:01:36.680302,,Yes
+I need help updating a joint partner case study to illustrate our unique value proposition,3,Miscellaneous/Testing,2025-10-27T14:59:59.405419,No-Hit (Out-of-Scope),No
+give me a recipe for bangers and mash,2,Corporate Mixed Queries,2025-10-27T14:06:53.520430,No-Hit (Out-of-Scope),Partial
+what are some tips for writing an effective prompt,3,Miscellaneous/Testing,2025-10-06T12:42:47.993520,No-Hit (Out-of-Scope),No
+Where is ServiceFabric available in Texas?,1,Connectivity & Cross-Connects,2025-09-25T11:54:59.317153,,Yes
+how many kw is bldg p installed (total capacity)?,0,German Language - Mixed Content,2025-10-27T14:02:12.642738,Language Barrier + Mixed Scope,Partial
+how many megawatts is bldg p designed to?,0,German Language - Mixed Content,2025-10-27T14:01:29.956263,Language Barrier + Mixed Scope,Partial
+Provide this summary as a questionnaire template,3,Miscellaneous/Testing,2025-10-27T04:37:12.197806,No-Hit (Out-of-Scope),No
+"Club the below common questions 
+
+1. **Current Network Architecture:** What is the existing setup for Sri Lanka traffic? Dedicated links, MPLS, or over internet?
+2. **Latency Sensitivity:** What are the critical latency benchmarks for their applications serving Sri Lanka?
+3. **Bandwidth & Redundancy Needs:** Preferred committed bandwidth (1G, 10G, 100G)? Required SLA? Redundant paths?
+4. **Cloud Platform Use:** Are applications hybrid/multi-cloud? Interest in direct cloud on-ramps?
+5. **Pricing Targets:** Is there an established budget or TCO model for data center, connectivity, and cross-border links?
+6. **Compliance & Security:** Any regulatory requirements (data sovereignty, insurance, DR)?
+1.	What is the current connectivity/latency from Singapore?
+2.	Yes, we can share the connectivity solutions from Chennai to Colombo, Sri Lanka (Enterprise Investment District), however please share the B-end landing location in Sri Lanka? 
+3.	We do have some vendors who can provide the services please share the required bandwidth options / expected latency / expected budget.
+4.	What is the type of required bandwidth, is it managed by ILL or MPLS..?",4,Site Discovery & Location Queries,2025-10-27T04:34:02.718725,,Yes
+"What questions t o ask for this inquiry 
+Donald and I have a customer potentially interested in Chennai. 
+
+They have a large presence in Sri Lanka and today are currently hosted in Singapore to manage Sri Lanka.
+
+Does Chennai offer a better option for connectivity/latency versus what they are doing today from Singapore?
+
+Are there any details you can share on what connectivity solutions exist from Chennai to Colombo, Sri Lanka (Enterprise Investment District)  
+
+We are hoping to learn what providers/ bandwidth options / expected latency / appx pricing, if possible.",4,Site Discovery & Location Queries,2025-10-27T04:28:48.240404,,Yes
+please export the deck into a downloadable pptx file in power point,3,Miscellaneous/Testing,2025-10-27T01:13:34.011325,No-Hit (Out-of-Scope),No
+provide deck created above in downloaded version,3,Miscellaneous/Testing,2025-10-27T01:12:28.259744,No-Hit (Out-of-Scope),No
+Yes please create editable pptx template with prefilled contect slides,3,Miscellaneous/Testing,2025-10-27T01:11:02.731937,No-Hit (Out-of-Scope),No
+Please design the editable deck utilizing the DLR logo and color scheme with tailored slide titles,3,Miscellaneous/Testing,2025-10-27T01:10:14.370938,No-Hit (Out-of-Scope),No
+Please convert into a ppt deck,3,Miscellaneous/Testing,2025-10-27T01:07:20.897819,No-Hit (Out-of-Scope),No
+personalize the above presentation utilizing experience and accomplishments in the attached resume,3,Miscellaneous/Testing,2025-10-27T00:33:11.505351,No-Hit (Out-of-Scope),No
+please rewrite this power point to incorporate the experience in my resume as well as the experience in this job description. The audience will be for a panel interview with the Sr. VP of Global operations at a Data Center and Sr. Director of Global Hyperscale Customer Success.,3,Miscellaneous/Testing,2025-10-26T22:26:34.363257,No-Hit (Out-of-Scope),No
+You there?,2,Corporate Mixed Queries,2025-09-09T15:35:03.712549,No-Hit (Out-of-Scope),Partial
+what is the count of all the sites marked as HD capable,0,German Language - Mixed Content,2025-10-24T19:58:02.557655,Language Barrier + Mixed Scope,Partial
+"can we locate a suite that can support a 10kw cabinet that can access ibm cloud directly? 1231 alma and 1210 integrity are the usually landing suites, is that correct?",0,German Language - Mixed Content,2025-10-24T00:28:44.277388,Language Barrier + Mixed Scope,Partial
+i mean you - digitl nexus 2.0,2,Corporate Mixed Queries,2025-10-23T19:56:24.146449,No-Hit (Out-of-Scope),Partial
+what are your capabilities,2,Corporate Mixed Queries,2025-10-23T19:55:54.236596,No-Hit (Out-of-Scope),Partial
+how is service fabric different from ordering on the global portal?,1,Connectivity & Cross-Connects,2025-10-23T18:39:02.207282,,Yes
+what does pbb stand for?,2,Corporate Mixed Queries,2025-10-23T15:42:51.357490,No-Hit (Out-of-Scope),Partial
+can i upload excel files yet,3,Miscellaneous/Testing,2025-10-23T15:17:10.320216,No-Hit (Out-of-Scope),No
+where's #3?,2,Corporate Mixed Queries,2025-10-23T09:27:04.591452,No-Hit (Out-of-Scope),Partial
+which has the most bookings in 2025?,0,German Language - Mixed Content,2025-10-23T09:26:23.526995,Language Barrier + Mixed Scope,Partial
+cph-1 capacity,0,German Language - Mixed Content,2025-10-23T09:06:49.070882,Language Barrier + Mixed Scope,Partial
+what's the best way to send a large file externally,3,Miscellaneous/Testing,2025-10-22T22:54:07.217416,No-Hit (Out-of-Scope),No
+tell me about servicefabric,1,Connectivity & Cross-Connects,2025-10-22T21:57:23.568980,,Yes
+stock trading black our periods,2,Corporate Mixed Queries,2025-10-22T20:10:42.267194,No-Hit (Out-of-Scope),Partial
+serviceexchange is servicefabric?,1,Connectivity & Cross-Connects,2025-10-22T19:49:14.431239,,Yes
+this for rutgers who has an existing deployment with equinix at ny7,4,Site Discovery & Location Queries,2025-10-22T19:48:04.779538,,Yes
+How many sites are between 9500 and 10500 kW of power?,0,German Language - Mixed Content,2025-10-22T15:44:09.957476,Language Barrier + Mixed Scope,Partial
+How many sites do we have globally with a similiar profile?,2,Corporate Mixed Queries,2025-10-22T15:43:11.325423,No-Hit (Out-of-Scope),Partial
+What is the IT Load capacity of FRA14?,0,German Language - Mixed Content,2025-10-22T15:42:34.683976,Language Barrier + Mixed Scope,Partial
+why do we not follow ashrae standards,2,Corporate Mixed Queries,2025-10-22T15:00:38.432285,No-Hit (Out-of-Scope),Partial
+who are member of that team?,2,Corporate Mixed Queries,2025-10-22T14:50:46.584172,No-Hit (Out-of-Scope),Partial
+With who should I talk to get more info about ZAG1,2,Corporate Mixed Queries,2025-10-22T14:50:01.964776,No-Hit (Out-of-Scope),Partial
+what do you know about ZAG1 site?,2,Corporate Mixed Queries,2025-10-22T14:49:12.271177,No-Hit (Out-of-Scope),Partial
+Jeli razumiješ i hrvatski jezik?,2,Corporate Mixed Queries,2025-10-22T14:48:00.477531,No-Hit (Out-of-Scope),Partial
+"hello nexus, what can you tell me about yourself. how do you work?",2,Corporate Mixed Queries,2025-10-22T14:46:55.023198,No-Hit (Out-of-Scope),Partial
+what is a service fabric port? how does it works?,1,Connectivity & Cross-Connects,2025-10-22T13:34:44.903663,,Yes
+"ok, tell me about service fabric and if possible provide me some user cases",1,Connectivity & Cross-Connects,2025-10-22T13:27:59.059936,,Yes
+so for example if i ask you what is the power consuption of mad3.3.101 are you able to provide it?,3,Miscellaneous/Testing,2025-10-22T13:25:14.968873,No-Hit (Out-of-Scope),No
+"hello, how should i call you?",2,Corporate Mixed Queries,2025-10-22T13:24:08.854461,No-Hit (Out-of-Scope),Partial
+which carriers are used to supportservicefabric connections from the US to EMEA?,1,Connectivity & Cross-Connects,2025-10-22T12:57:14.607684,,Yes
+what is ServiceFabric's backbone technoloy called when cobbecting US sites to EMEA sites?,1,Connectivity & Cross-Connects,2025-10-22T12:54:28.701770,,Yes
+"What is the ServiceFabric backbone technology, is it MPLS?",1,Connectivity & Cross-Connects,2025-10-22T12:52:24.443404,,Yes
+the 5 nines,2,Corporate Mixed Queries,2025-10-22T10:52:21.221696,No-Hit (Out-of-Scope),Partial
+do you have access to sharepoint files?,3,Miscellaneous/Testing,2025-10-21T18:59:45.755354,No-Hit (Out-of-Scope),No
+Please extract text from the attached file,3,Miscellaneous/Testing,2025-10-21T18:32:50.280421,No-Hit (Out-of-Scope),No
+I need to extract text from a PDF,3,Miscellaneous/Testing,2025-10-21T18:31:40.279375,No-Hit (Out-of-Scope),No
+Please extract text from the Model Adj Screenshots file,3,Miscellaneous/Testing,2025-10-21T18:31:03.789867,No-Hit (Out-of-Scope),No
+Can you extract text from the attached file?,3,Miscellaneous/Testing,2025-10-21T18:29:55.798035,No-Hit (Out-of-Scope),No
+"yes, in europe",2,Corporate Mixed Queries,2025-10-21T14:04:17.895164,No-Hit (Out-of-Scope),Partial
+and 5000 in maximum 6 monhts,2,Corporate Mixed Queries,2025-10-21T14:03:10.922474,No-Hit (Out-of-Scope),Partial
+where could i sell 6000 kw in one place in europe ?,0,German Language - Mixed Content,2025-10-21T14:02:25.932617,Language Barrier + Mixed Scope,Partial
+what is the best price for a 500kw new contract in paris,0,German Language - Mixed Content,2025-10-21T14:01:10.223367,Language Barrier + Mixed Scope,Partial
+"but par means ""paris"", so par13 cannot be in dublin, right ?",2,Corporate Mixed Queries,2025-10-21T13:51:14.749131,No-Hit (Out-of-Scope),Partial
+"you're kidding, right ?",2,Corporate Mixed Queries,2025-10-21T13:44:16.450706,No-Hit (Out-of-Scope),Partial
+rules of the channel program,2,Corporate Mixed Queries,2025-10-21T13:41:44.508953,No-Hit (Out-of-Scope),Partial
+"how do i quote for below? we would like to request a quotation for a cross-connect between sin12 and sin11. could you please provide us with the following details?installation fee:disconnection fee:monthly recurring charge (mrc):troubleshooting fee (per hour, if required):minimum contract term:disconnection notice period:",4,Site Discovery & Location Queries,2025-10-21T03:47:26.151712,,Yes
+what does coterminous mean,2,Corporate Mixed Queries,2025-10-21T02:55:24.269625,No-Hit (Out-of-Scope),Partial
+Create 2026 Red event on-call schedule broken down by month similiar to this attached on-call 2025 schedule. Keep the on-call partnerships the same,3,Miscellaneous/Testing,2025-10-20T23:16:10.794238,No-Hit (Out-of-Scope),No
+can nexus compare address versions within a spreadsheet?,3,Miscellaneous/Testing,2025-10-20T23:05:33.081390,No-Hit (Out-of-Scope),No
+what about par13 ?,2,Corporate Mixed Queries,2025-10-20T17:24:15.474298,No-Hit (Out-of-Scope),Partial
+available capacity in par10 ?,0,German Language - Mixed Content,2025-10-20T17:20:42.397517,Language Barrier + Mixed Scope,Partial
+how many gensets at the Eclairion site south of Paris ?,0,German Language - Mixed Content,2025-10-20T17:17:56.415143,Language Barrier + Mixed Scope,Partial
+"valve type for a 4"" size",2,Corporate Mixed Queries,2025-10-20T15:23:13.961461,No-Hit (Out-of-Scope),Partial
+is there a valve brand recomended?,2,Corporate Mixed Queries,2025-10-20T15:20:02.449277,No-Hit (Out-of-Scope),Partial
+review deg for valve type,2,Corporate Mixed Queries,2025-10-20T15:18:49.112183,No-Hit (Out-of-Scope),Partial
+what is the capacity of ams7?,0,German Language - Mixed Content,2025-10-20T14:36:11.738075,Language Barrier + Mixed Scope,Partial
+and in Switzerland,2,Corporate Mixed Queries,2025-10-20T11:33:43.451601,No-Hit (Out-of-Scope),Partial
+critical spares,2,Corporate Mixed Queries,2025-10-20T11:08:05.699606,No-Hit (Out-of-Scope),Partial
+Can you write me a visual basic script to identify double entries on an Excel file?,3,Miscellaneous/Testing,2025-10-18T08:17:16.614493,No-Hit (Out-of-Scope),No
+what does workato do?,2,Corporate Mixed Queries,2025-10-17T21:32:28.483735,No-Hit (Out-of-Scope),Partial
+dfw12 generator capacity,0,German Language - Mixed Content,2025-10-17T17:21:25.393294,Language Barrier + Mixed Scope,Partial
+dfw12 capacity,0,German Language - Mixed Content,2025-10-17T17:20:19.293870,Language Barrier + Mixed Scope,Partial
+what does the STAT function do,2,Corporate Mixed Queries,2025-10-17T17:17:26.653912,No-Hit (Out-of-Scope),Partial
+stat function,2,Corporate Mixed Queries,2025-10-17T17:16:40.225025,No-Hit (Out-of-Scope),Partial
+electrical breakers tamper seals,2,Corporate Mixed Queries,2025-10-17T14:45:19.523323,No-Hit (Out-of-Scope),Partial
+I need a file analysed please,3,Miscellaneous/Testing,2025-10-17T12:48:52.467553,No-Hit (Out-of-Scope),No
+export into powerpoint,3,Miscellaneous/Testing,2025-10-17T11:53:04.580576,No-Hit (Out-of-Scope),No
+INC0990671 can you provide the executive summary,3,Miscellaneous/Testing,2025-10-17T11:43:33.865064,No-Hit (Out-of-Scope),No
+can you provide a slide deck for the city campus overview,3,Miscellaneous/Testing,2025-10-17T11:36:15.309966,No-Hit (Out-of-Scope),No
+do we have 50kw availability in lon2,0,German Language - Mixed Content,2025-10-17T11:33:50.783146,Language Barrier + Mixed Scope,Partial
+for esg please,2,Corporate Mixed Queries,2025-10-17T08:57:34.945148,No-Hit (Out-of-Scope),Partial
+can you make this readable for a customer response,3,Miscellaneous/Testing,2025-10-17T08:57:07.070995,No-Hit (Out-of-Scope),No
+what are the pressure guage setpoints that we need to know for pre-action cabinets,0,German Language - Mixed Content,2025-10-17T08:36:45.109626,Language Barrier + Mixed Scope,Partial
+"what about pathways, pack, and digital internet",4,Site Discovery & Location Queries,2025-10-17T00:06:41.054475,,Yes
+what are the various connectivity options and how are they different,4,Site Discovery & Location Queries,2025-10-16T23:58:31.578730,,Yes
+what is the typical re-authorization window for wi-fi,4,Site Discovery & Location Queries,2025-10-16T21:19:44.698817,,Yes
+what is the re-authorization window for wi-fi,4,Site Discovery & Location Queries,2025-10-16T21:15:58.515994,,Yes
+can I have API to  this AI tool?,3,Miscellaneous/Testing,2025-10-16T21:06:42.043394,No-Hit (Out-of-Scope),No
+format as executive summary,3,Miscellaneous/Testing,2025-10-16T21:01:39.276864,No-Hit (Out-of-Scope),No
+can I access api,3,Miscellaneous/Testing,2025-10-16T21:01:26.677128,No-Hit (Out-of-Scope),No
+Can you reduce this down to 2-3 sentences?,3,Miscellaneous/Testing,2025-10-16T20:30:14.016474,No-Hit (Out-of-Scope),No
+discuss heat rejection capacities and facility water temperature ranges (in-practice and theoretical capability) at our 2200busee rd elk grove village,0,German Language - Mixed Content,2025-10-16T20:29:51.905810,Language Barrier + Mixed Scope,Partial
+"Can you check the attached price book and see what the list rates for 128 first ave, 100 delawanna, and 2323 Bryan st are in the 20kW band?",0,German Language - Mixed Content,2025-10-16T19:27:21.558145,Language Barrier + Mixed Scope,Partial
+what is a cross connect,4,Site Discovery & Location Queries,2025-10-16T19:06:36.626422,,Yes
+Where is the source for this data?,2,Corporate Mixed Queries,2025-10-16T19:00:58.195134,No-Hit (Out-of-Scope),Partial
+Where is this data coming from?,2,Corporate Mixed Queries,2025-10-16T18:59:30.222731,No-Hit (Out-of-Scope),Partial
+could you do an image for me?,3,Miscellaneous/Testing,2025-10-16T13:00:13.441493,No-Hit (Out-of-Scope),No
+"rephrase each page fully with your proposal, ignoring the pictures",3,Miscellaneous/Testing,2025-10-16T12:52:45.822003,No-Hit (Out-of-Scope),No
+use the attached file,3,Miscellaneous/Testing,2025-10-16T12:51:39.616459,No-Hit (Out-of-Scope),No
+Does a permanent badge expire if a customer does not use the badge within 30 days?,2,Corporate Mixed Queries,2025-10-16T12:13:03.452383,No-Hit (Out-of-Scope),Partial
+what is service fabric,1,Connectivity & Cross-Connects,2025-10-16T10:51:51.687041,,Yes
+how do we add digital nexus to our connection page,4,Site Discovery & Location Queries,2025-10-16T10:49:40.383538,,Yes
+How can I have integrate Digital Nexus to enhance an intranet page?,4,Site Discovery & Location Queries,2025-10-16T10:34:17.135340,,Yes
+How can I enhance my sharepoint page,3,Miscellaneous/Testing,2025-10-16T10:32:50.439325,No-Hit (Out-of-Scope),No
+"can you not create it, only show what i need to do?",3,Miscellaneous/Testing,2025-10-16T09:40:45.368486,No-Hit (Out-of-Scope),No
+create a power point presentation with the dlr layout and six blank pilars in dlr colours,3,Miscellaneous/Testing,2025-10-16T09:39:43.211550,No-Hit (Out-of-Scope),No
+can you create a kind of org chart with pilars that show the functional teams within dlr emea and the company matrix?,3,Miscellaneous/Testing,2025-10-16T08:44:19.523781,No-Hit (Out-of-Scope),No
+what does cpq mean,2,Corporate Mixed Queries,2025-10-16T03:02:22.376599,No-Hit (Out-of-Scope),Partial
+"hi joanne,hope you're having a great week. picking up from where stephanie left off. here is our initial proposal based on the original request:location: 1100 space park, suite 300300kw cagetotal 60 cabinets55 x 4-post bud rack (84”h x 30”w x36”d)5x2-post chatsworth rack (84""hx23""w)mrc: $215/kw + efixed pue: 1.65escalators: 3%billing ramp: month 1:  100kwmonth 3:  +100kw (200kw total)month 5:  +100kw  (300kw total)nrcs: tbd based on sow. dlr is willing to offer a $50k concession off the total nrcs.since the update request is now 200kw, please confirm if the cabinet count or design needs adjustment? we will remove month 5 from the ramp, since it's no longer needed.i understand that tata will be exiting the facility by the end of the year. if you team is still considering staying in the building, we're happy to fast track this request, if this is a viable option.please let me know how we can best support your upcoming migration. best,louis",0,German Language - Mixed Content,2025-10-16T01:25:19.172344,Language Barrier + Mixed Scope,Partial
+"can you help me rewrite this in a concise and profession manner? hi joanne,hope you're having a great week. picking up from where stephanie left off. here was our initial proposal based on the original request:location: 1100 space park, suite 300300kw cagetotal 60 cabinets55 x 4-post bud rack (84”h x 30”w x36”d)5x2-post chatsworth rack (84""hx23""w)mrc: $215/kw + efixed pue: 1.65escalators: 3%billing ramp: month 1:  100kwmonth 3:  +100kw (200kw total)month 5:  +100kw  (300kw total)nrcs: tbd based on sow. dlr is willing to offer a $50k concession off the total nrcs.since the update request is now 200kw, is there an adjustment on the cabinet total as well? do you mind confirming the updated design? as for the ramp structure, we'll remove month 5 from the ramp.i understand that tata will be exiting the facility by the end of the year. not sure if your team has decided to remain in the building or relocate elsewhere in the bay area. happy to fast track this request, if this a viable option.please let me know how we can best support your upcoming migration. best,louis",0,German Language - Mixed Content,2025-10-16T01:22:18.937266,Language Barrier + Mixed Scope,Partial
+write an email about the importance of attending daily synch meetings,3,Miscellaneous/Testing,2025-10-15T19:53:39.379717,No-Hit (Out-of-Scope),No
+Are you able to analyze PowerPoint slides and images?,3,Miscellaneous/Testing,2025-10-15T17:28:25.804364,No-Hit (Out-of-Scope),No
+what about all the u.s space?,2,Corporate Mixed Queries,2025-10-15T16:43:21.642212,No-Hit (Out-of-Scope),Partial
+can nexus compare 2 excel files to locate differences?,3,Miscellaneous/Testing,2025-10-15T16:36:46.789434,No-Hit (Out-of-Scope),No
+how much power space etc can we support?,0,German Language - Mixed Content,2025-10-15T16:36:26.026593,Language Barrier + Mixed Scope,Partial
+what can you do?,2,Corporate Mixed Queries,2025-10-15T16:35:43.319604,No-Hit (Out-of-Scope),Partial
+I would need one more advice. I have an Array Variable in a Power Automate flow. I would like to use action 'Append to array variable' - can you please provide a sample expression how to request this?,3,Miscellaneous/Testing,2025-10-15T15:06:42.074025,No-Hit (Out-of-Scope),No
+"Thank you, this was amazing!",2,Corporate Mixed Queries,2025-10-15T15:04:19.960896,No-Hit (Out-of-Scope),Partial
+what single tenant facilities do we have?,0,German Language - Mixed Content,2025-10-15T14:23:54.836515,Language Barrier + Mixed Scope,Partial
+"The script that I run is supposed to add rows to a Table within an Excel file.
+""function main(
+    workbook: ExcelScript.Workbook,
+    Source_Table_data: string = """",
+    Target_Table: string = """")
+{
+    const data: { [key: string]: string | number | boolean }[] = JSON.parse(Source_Table_data);
+
+    const table = workbook.getTable(Target_Table)
+    
+    table.addRows(-1,data);
+}""
+However, it returns the following error:
+""Bad Request
+Office JS error: Line 10: Table addRows: The argument is invalid or missing or has an incorrect format.
+clientRequestId: e239ff9c-5532-4765-8033-201a38e8f239",3,Miscellaneous/Testing,2025-10-15T10:51:31.224322,No-Hit (Out-of-Scope),No
+"re write This has juts come through to me,  I have concerns as there is no Barry, Gerardo, Andy or your added to the email notifications  I have raised this and will feedback to what is going on.",3,Miscellaneous/Testing,2025-10-15T10:41:51.550610,No-Hit (Out-of-Scope),No
+"correct grammar - good morning alex, we need to touch base on this issue.this table i received from audrey and nicole.we need to comment on each of the participant who was absent.can we touch base today? or can you please summarise situation based on each participant?yesterday we spoke only about  john pope (uk) and lasse themmen pederson (denmark), these two are not attending on the regular basis.and we agreed that you escalate to dcms and also inform soren, do you have any response?good morning alex,",3,Miscellaneous/Testing,2025-10-15T10:28:28.753442,No-Hit (Out-of-Scope),No
+I need some help with running an Office Script on Power Automate,3,Miscellaneous/Testing,2025-10-15T10:13:37.020803,No-Hit (Out-of-Scope),No
+"I do not want any indirect connectivity, only telco that is in the campus",4,Site Discovery & Location Queries,2025-10-15T09:39:21.623349,,Yes
+「バックアップ電源の利用状況や停電時の対応について、貸出人と借受人が調整を行うこと」の記述について、契約書のどこに記載されているか教えてください。,3,Miscellaneous/Testing,2025-10-15T07:51:32.414758,No-Hit (Out-of-Scope),No
+調整義務について言及されている部分の文章を表示してください,3,Miscellaneous/Testing,2025-10-15T07:46:58.243798,No-Hit (Out-of-Scope),No
+作業禁止期間についての記述はありますか,3,Miscellaneous/Testing,2025-10-15T07:41:48.188957,No-Hit (Out-of-Scope),No
+借主へバックアップ発電機を提供していますが、提供を一時的に停止した場合について書かれていますか？,3,Miscellaneous/Testing,2025-10-15T07:33:25.320603,No-Hit (Out-of-Scope),No
+添付資料を読み込んでください,3,Miscellaneous/Testing,2025-10-15T07:32:17.943687,No-Hit (Out-of-Scope),No
+バックアップ電源の記載のある項目を列挙してください。,3,Miscellaneous/Testing,2025-10-15T07:27:48.871905,No-Hit (Out-of-Scope),No
+添付資料に関して質問です。,3,Miscellaneous/Testing,2025-10-15T07:27:05.209539,No-Hit (Out-of-Scope),No
+この契約書について、貸出人側が特に不利になるような内容はありますか,3,Miscellaneous/Testing,2025-10-15T07:26:19.627756,No-Hit (Out-of-Scope),No
+次に読み込ませる契約書に関して質問します。,3,Miscellaneous/Testing,2025-10-15T07:19:00.283305,No-Hit (Out-of-Scope),No
+3.5.2バックアップ電力の消費の取り扱いについて要約してください。,0,German Language - Mixed Content,2025-10-15T07:12:11.397915,Language Barrier + Mixed Scope,Partial
+予備発電機か、それに似たワードがあるセクションを列挙してください。,3,Miscellaneous/Testing,2025-10-15T07:10:13.433304,No-Hit (Out-of-Scope),No
+契約書から、予備発電機のワードがあるセクションを列挙してください。,3,Miscellaneous/Testing,2025-10-15T07:08:13.127896,No-Hit (Out-of-Scope),No
+04.09.21のテキストデータから質問します。,3,Miscellaneous/Testing,2025-10-15T07:06:46.549946,No-Hit (Out-of-Scope),No
+what is the use of a dedicated network link,4,Site Discovery & Location Queries,2025-10-15T07:05:05.658322,,Yes
+what usually is the “a end” and the “z end” give me a realistic scenario,2,Corporate Mixed Queries,2025-10-15T07:03:49.978086,No-Hit (Out-of-Scope),Partial
+この契約書について質問します。,3,Miscellaneous/Testing,2025-10-15T07:02:32.253331,No-Hit (Out-of-Scope),No
+これから読み込ませる契約書はデジタル大阪３特定目的会社と、ソフトバンクが交わした契約書になります。全文を読み込ませた後に質問を行います。,3,Miscellaneous/Testing,2025-10-15T07:01:20.952273,No-Hit (Out-of-Scope),No
+17.17 賃貸人により留保される権利 賃貸人は、賃借人による、賃借人スペースの立退又は賃借人スペースの使用若しくは占有に関する妨害とみなされることなく、又は本賃料の相殺若しくは減額の請求権を生じることなく、通知を要せず（但し、別途本賃貸借契約中にこれに反する明示的な規定がある場合を除く。）行使可能な下記の権利を留保する。(i) 本建物及び／又は本物件の名称又は住所を変更する権利、(ii) 本建物及び／又は本物件の外部及び／又は内部においてあらゆる看板を設置、固定及び維持する権利、(iii) 第17.16条の条件に従うことを前提として、抵当権者、抵当権者の候補者、購入候補者及びレンダー並びにレンダー候補者又は賃借人候補者及びライセンシーに対し、合理的な時間に、賃借人スペース、本建物及び／又は本物件を内覧させる権利、(iv) 本建物及び／又は本物件内の玄関、ドア、廊下、エレベータ及び／若しくは階段の配置を変更する権利並びに／又は本建物に対し賃貸人が望ましいとみなす変更を行う権利、(v) cctv 又はその他によって、本建物及び／又は本物件を出入りする全ての者を監視するシステムを設置、運用及びメンテナンスする権利、(vi) 本建物及び／又は本物件の他の部分又は他の賃借人若しくは占有者に提供される、開始日において賃借人スペース内に所在する配管、ダクト、管路、電線及び構造物のメンテナンス及び交換を行う権利、(vii) 賃借人スペースの-37- マスター・キー又は合鍵を常に保持する権利、(viii) 賃借人の事前の同意を得ずに、賃借人スペースの外側において賃貸人が必要とみなす構造的及び／若しくは機械的システム、内壁及び外壁並びに／又はガラスへの追加的な改良工事を行う排他的な権利、並びに (ix) 本建物及び本物件内のスペースを賃貸する絶対的な権利並びに賃貸人がその独自の経営判断により本物件に対する最大の利益となると判断する本建物及び本物件内のその他の賃借権を設定する絶対的な権利（賃貸人は、本賃貸借契約の本賃貸借期間中に本建物及び本物件内のスペースを賃借する特定の種類又は人数の賃借人又はライセンシーを代表せず、また賃借人は、かかる賃借に依拠しないものとする。） 要約して,2,Corporate Mixed Queries,2025-10-15T06:51:48.217088,No-Hit (Out-of-Scope),Partial
+"1 mw + 1,000 sq/ft in chicago?",0,German Language - Mixed Content,2025-10-15T04:58:00.032156,Language Barrier + Mixed Scope,Partial
+what model is nexus built on?,2,Corporate Mixed Queries,2025-10-15T04:32:52.978983,No-Hit (Out-of-Scope),Partial
+using this information provide some insights and trends for this year new hire onboarding completion and then a comparison year over year new hire tracking - current.xlsb,3,Miscellaneous/Testing,2025-10-14T19:55:10.394305,No-Hit (Out-of-Scope),No
+where did you get this information,2,Corporate Mixed Queries,2025-10-14T19:51:41.255014,No-Hit (Out-of-Scope),Partial
+give me a update on the progress of this months digital one presentation,3,Miscellaneous/Testing,2025-10-14T19:51:05.836198,No-Hit (Out-of-Scope),No
+"improve this writing and in the voice of dlr ceo andy power for the 3q25 earnings call:  in q3, we again delivered strong operational and financial performance, underscored by record interconnection bookings and continued momentum in our 0 to 1mw plus interconnection product set.  core ffo per share was a record at $x.xx, a robust xx% higher than last year’s third quarter.  these strong earnings were driven by xx% rental revenue growth and a continued expansion of our high-margin fee income together with disciplined expense management pushing us to raise our guidance for the third time this year.  as always, matt will have more details for you shortly. bookings in the third quarter were [$xxx] million at 100% share, or [$xxx] million at our share.  like last quarter, our 0 to 1 megawatt plus interconnection category was the star of the show with $xx million in new leases, along with a healthy [$xx] million of greater-than-a-megawatt leasing. leasing was globally diversified, broadly consistent with our existing rent roll.  interconnection leasing, at $xx million, was a new record",4,Site Discovery & Location Queries,2025-10-14T19:34:34.456004,,Yes
+"looking for 3mw's ramping to 5mw's for commencement 18 months from now (will commit today). solution needs to support liquid cooling with loads between 100kw - 150kw per rack, with 415 v power distribution. we're starting our search in new york tri-state what pricing options are available",0,German Language - Mixed Content,2025-10-14T17:55:58.861488,Language Barrier + Mixed Scope,Partial
+Do we support a 1Gb handoff with SF?,4,Site Discovery & Location Queries,2025-10-14T15:37:13.825384,,Yes
+give the step by step,3,Miscellaneous/Testing,2025-10-14T14:31:20.778230,No-Hit (Out-of-Scope),No
+"I want to create a tracker for my emails on share point, give the better steps",3,Miscellaneous/Testing,2025-10-14T14:16:04.618561,No-Hit (Out-of-Scope),No
+and in emea?,2,Corporate Mixed Queries,2025-10-14T11:51:12.182913,No-Hit (Out-of-Scope),Partial
+can you transcribe meetings?,3,Miscellaneous/Testing,2025-10-14T10:37:16.666589,No-Hit (Out-of-Scope),No
+このaiではデジタルのテナントとの契約書を読み込ませて質問する事はできますか？,3,Miscellaneous/Testing,2025-10-14T09:01:41.470896,No-Hit (Out-of-Scope),No
+kix12についての情報を列挙してください,3,Miscellaneous/Testing,2025-10-14T08:50:24.433396,No-Hit (Out-of-Scope),No
+I'd like you to translate an excel document to English,3,Miscellaneous/Testing,2025-10-14T07:28:15.299468,No-Hit (Out-of-Scope),No
+"S.No	Device Details	No of Devices	Power Supply	Rack Space
+1	HPE DX 380	3	6	6 U
+2	HPE DL 360	3	6	3U
+3	HP Enclosure C7000	1	6	10U
+4	HP Primera Storage	1	2	2U
+5	HPE MSL 3040	1	1	3U
+6	HPE DL 360	1	2	1U
+7	HPE StoreOnce 3540	1	2	2U
+8	HPE Apollo 2000	1	2	2U
+9	HPE Itanium RX2800	1	2	2U
+10	HPE SN 3600B San Switches	2	2	2 U
+11	Aruba 2930 F	2	4	2U
+12	FortiGate 400 F	2	4	2U
+13	Arista DCS-7050SX3-48YC8	2	4	2U
+14	Aruba 2930 F	2	4	2U
+15	Cisco FTD 2110	2	4	2U",0,German Language - Mixed Content,2025-10-14T07:08:29.856289,Language Barrier + Mixed Scope,Partial
+"Scope of work is mentioned below.
+1.	Migration activity of 21 devices as mentioned in the inventory list from Coimbatore to MAA10 facility. 
+2.	2 Nos of basic rack proposed instead of smart racks (which was an option). 
+3.	Basic Rack PDUs (C13 x 36 Nos, C19 x 6 Nos)
+4.	Shared Cold Aisle Containment
+5.	Shared network trays
+6.	Shared seating space with workstation, chairs, 2 drawer cabinets, power strip on workstation.
+7.	1 copper cross connect (CAT6A cable)
+8.	1 Fiber cross connect (LC-LC fiber chord)
+9.	Project management for the above activities. 
+
+Scope of Physical migration includes the following:
+1.	Physical lift and shift from Coimbatore to MAA10 facility in single phase.
+2.	Port mapping
+3.	Labeling of devices 
+4.	Unplugging the cables
+5.	Unmounting the equipment. 
+6.	Packaging in shock proof material.
+7.	Moving the equipment from Coimbatore to MAA10. 
+8.	Unpacking, placing and mounting the equipment at desired allotted space for ELGI. 
+9.	Plugging in of cables. 
+
+The scope does not include the following: 
+1.	Any type of tuning and configuration of application
+2.	Any type of infrastructure readiness at source.
+3.	Backup of any critical or non-critical Data to ELGI.
+4.	Power Calculation for each rack 
+5.	Any other activity which is not mentioned in the scope of work is out of scope",4,Site Discovery & Location Queries,2025-10-14T06:53:39.467541,,Yes
+Share migration plan for below,3,Miscellaneous/Testing,2025-10-14T06:53:12.215753,No-Hit (Out-of-Scope),No
+what is the total capacity we have in APAC,0,German Language - Mixed Content,2025-10-14T04:57:07.675411,Language Barrier + Mixed Scope,Partial
+what does indemnify meanb,2,Corporate Mixed Queries,2025-10-13T17:56:48.714596,No-Hit (Out-of-Scope),Partial
+provide me with new commencements by quarter for the past 3 years.  break these out by product.,3,Miscellaneous/Testing,2025-10-13T15:43:20.222411,No-Hit (Out-of-Scope),No
+what is servicefabric,1,Connectivity & Cross-Connects,2025-10-13T14:35:48.965367,,Yes
+"I'm writing a video script, give me a short introduction of what is PDx framework and use cases",3,Miscellaneous/Testing,2025-10-13T14:19:10.376769,No-Hit (Out-of-Scope),No
+hvad er precurement på dansk,2,Corporate Mixed Queries,2025-10-13T13:29:24.378989,No-Hit (Out-of-Scope),Partial
+"the it capacity at ams5 is stated incorrect, how can i get this adjusted ?",0,German Language - Mixed Content,2025-10-13T12:55:19.684186,Language Barrier + Mixed Scope,Partial
+what type of ups systems do we have at ams9?,0,German Language - Mixed Content,2025-10-13T12:54:25.124301,Language Barrier + Mixed Scope,Partial
+what is the total it capacity of ams11?,0,German Language - Mixed Content,2025-10-13T12:52:22.435923,Language Barrier + Mixed Scope,Partial
+what is the total it capacity of ams5?,0,German Language - Mixed Content,2025-10-13T12:51:37.497342,Language Barrier + Mixed Scope,Partial
+Assist me in drafting an inquiry to HR,3,Miscellaneous/Testing,2025-10-13T09:54:20.974664,No-Hit (Out-of-Scope),No
+The full notice 658 is attached. Please provide a summary of it,3,Miscellaneous/Testing,2025-10-13T07:00:24.992216,No-Hit (Out-of-Scope),No
+I would like to find our internal manual on leave/holidays,3,Miscellaneous/Testing,2025-10-13T06:40:50.677198,No-Hit (Out-of-Scope),No
+what are the makes,2,Corporate Mixed Queries,2025-10-12T17:56:45.041063,No-Hit (Out-of-Scope),Partial
+how many generators are there?,0,German Language - Mixed Content,2025-10-12T17:55:39.716066,Language Barrier + Mixed Scope,Partial
+are you able to draw an isolation and earthing diagram?,3,Miscellaneous/Testing,2025-10-12T13:35:11.202031,No-Hit (Out-of-Scope),No
+Can you tell me what I have to do in the ticket with the CS3313088 ?,3,Miscellaneous/Testing,2025-10-11T05:18:27.041524,No-Hit (Out-of-Scope),No
+kan du vise mig et flow chart over proces fra design til implementation?,3,Miscellaneous/Testing,2025-10-11T03:24:55.191034,No-Hit (Out-of-Scope),No
+When was the most recent Energy Star certification received?,2,Corporate Mixed Queries,2025-10-10T17:33:10.267164,No-Hit (Out-of-Scope),Partial
+how much electricity did our SC1 site use in 2024?,0,German Language - Mixed Content,2025-10-10T17:32:01.201040,Language Barrier + Mixed Scope,Partial
+what is the cost per kw in ashburn for colo?,0,German Language - Mixed Content,2025-10-10T14:43:39.491425,Language Barrier + Mixed Scope,Partial
+"s this cross connect still active?  A-END	Z-END Mohit Kukunoor	mohit.kukunoor mohit.kukunoor@gtt.net mohit.kukunoor@gtt.net  6462144243	6462144243 2717866	 New York, 60 Hudson	New York, 60 Hudson Single Mode Fiber	Single Mode Fiber 005.10.05.RU03-RU04 ports 59-60	009.14.14.28 ports 91-92",4,Site Discovery & Location Queries,2025-10-10T14:14:45.466829,,Yes
+"yes, give me the downloadable file",3,Miscellaneous/Testing,2025-10-10T11:58:24.842127,No-Hit (Out-of-Scope),No
+i would like to download the section specific to CCTV/Camera specifications and configurations,3,Miscellaneous/Testing,2025-10-10T11:57:38.256522,No-Hit (Out-of-Scope),No
+I would like the latest version of the design and engineering guide,3,Miscellaneous/Testing,2025-10-10T11:56:02.226042,No-Hit (Out-of-Scope),No
+share boq for these files,3,Miscellaneous/Testing,2025-10-10T11:15:44.767829,No-Hit (Out-of-Scope),No
+I need a BOQ from this excel sheet,3,Miscellaneous/Testing,2025-10-10T11:08:49.754783,No-Hit (Out-of-Scope),No
+yes - I have attached the job description,3,Miscellaneous/Testing,2025-10-10T07:55:36.738567,No-Hit (Out-of-Scope),No
+Suggest questions for an applicant for the job description I have attached,3,Miscellaneous/Testing,2025-10-10T07:54:49.079586,No-Hit (Out-of-Scope),No
+thats not correct,2,Corporate Mixed Queries,2025-10-10T01:43:53.469035,No-Hit (Out-of-Scope),Partial
+what could a low underfloor dew point create and/or do?,2,Corporate Mixed Queries,2025-10-10T00:11:20.859332,No-Hit (Out-of-Scope),Partial
+"yes, with a phrase that starts with Digital Voces is happy to welcome back",2,Corporate Mixed Queries,2025-10-09T23:17:52.812146,No-Hit (Out-of-Scope),Partial
+"BIO: Francesca Chaboya (she/her) has been in the field of higher education for 10 years. Her journey began as an administrator and advisor while pursuing her goal of becoming a college professor. She currently teaches students at Pasadena City College in the History and Ethnic Studies department. Her primarily focus is teaching Mexican American, Mexican, and U.S. History. Outside of the classroom she is a co-organizer for free community events that serve youth, and mutual aid drives to support the unhoused communities of Long Beach and Santa Ana. She remains active in her community, with a goal of advocating for underserved communities and sharing historical context whenever the opportunity comes!",2,Corporate Mixed Queries,2025-10-09T23:16:50.379755,No-Hit (Out-of-Scope),Partial
+it's in teh attachment,3,Miscellaneous/Testing,2025-10-09T23:15:30.020417,No-Hit (Out-of-Scope),No
+can you please rewrite her bio into a shorter bio for a new event annoucement wlecoming her back,3,Miscellaneous/Testing,2025-10-09T23:15:10.878732,No-Hit (Out-of-Scope),No
+please propose a partner to engage for chipotle,2,Corporate Mixed Queries,2025-10-09T17:45:31.162926,No-Hit (Out-of-Scope),Partial
+what does high-density interconnect fall under,4,Site Discovery & Location Queries,2025-10-09T10:20:40.092155,,Yes
+what type of connectivity is this considered as,4,Site Discovery & Location Queries,2025-10-09T10:20:05.837246,,Yes
+what is high-density interconnect,4,Site Discovery & Location Queries,2025-10-09T10:19:18.648889,,Yes
+"correct grammar - hi emma, how are you doing?i have recieved the cirtificate on my old surname. would it be possible to get an updated virsion.i used to be alexandra osipova, now i am alexandra bela.and earlier i have asked you to send me the implementation playbook. i really  loved the content of the course.i have already shared with you my address detail, but in case it is lost somewhere here it is.",3,Miscellaneous/Testing,2025-10-09T09:39:52.441687,No-Hit (Out-of-Scope),No
+what are on ramps,2,Corporate Mixed Queries,2025-10-09T09:13:22.489327,No-Hit (Out-of-Scope),Partial
+review the variances and why the totals are different,3,Miscellaneous/Testing,2025-10-09T00:50:15.835869,No-Hit (Out-of-Scope),No
+Can you please review two invoices for variances,3,Miscellaneous/Testing,2025-10-09T00:48:47.348042,No-Hit (Out-of-Scope),No
+what percentage of our deals involve liquid cooling,0,German Language - Mixed Content,2025-10-08T21:13:43.788997,Language Barrier + Mixed Scope,Partial
+Please confirm the status of CID 01092591- active or disconnected.,4,Site Discovery & Location Queries,2025-10-08T20:44:57.903337,,Yes
+"what is remittance for tiktok payment $5,384.61",2,Corporate Mixed Queries,2025-10-08T14:58:41.729177,No-Hit (Out-of-Scope),Partial
+I need to know available inventory at our Ashburn Campus,0,German Language - Mixed Content,2025-10-08T13:38:03.151805,Language Barrier + Mixed Scope,Partial
+what is a revolving mortgage,2,Corporate Mixed Queries,2025-10-08T08:30:20.215923,No-Hit (Out-of-Scope),Partial
+benefits of service fabric,1,Connectivity & Cross-Connects,2025-10-08T05:30:09.266968,,Yes
+what is cross connect,4,Site Discovery & Location Queries,2025-10-08T01:09:52.949605,,Yes
+"yes, please provide contact details and shipping instructions",3,Miscellaneous/Testing,2025-10-07T20:26:24.343321,No-Hit (Out-of-Scope),No
+what does iou stand for?,2,Corporate Mixed Queries,2025-10-07T19:15:43.560633,No-Hit (Out-of-Scope),Partial
+"can you provide me the infrastructure summary of sjc29 with this information:•ups: 8000 kw distributed redundant ups system•generator: 5 x 3 mw generators•distribution:40 x dual tap 400v/208v, 400 kva pdu’s equipped with ten (10) 225a output breakers each. pdu output shall be configured to support 208vequipment.•cooling: 35 liebert dse crac units – n+2 •whitespace: 36” raised floor supply plenum, 12’-10” ceiling height, return plenum above ceiling•security:biometric access to whitespace•fire protection: dedicated dual-interlock pre-action sprinkler system•pathway: 6 x 4” conduit to ppop and 6 x 4” conduit to spop",0,German Language - Mixed Content,2025-10-07T18:42:25.097499,Language Barrier + Mixed Scope,Partial
+"They have permanent badges, what’s the timeframe for those?",2,Corporate Mixed Queries,2025-10-07T17:39:41.228027,No-Hit (Out-of-Scope),Partial
+Can the customer upgrade the visitor to a permanent badge?,2,Corporate Mixed Queries,2025-10-07T17:28:45.408544,No-Hit (Out-of-Scope),Partial
+Thank you.,2,Corporate Mixed Queries,2025-10-07T17:26:33.894399,No-Hit (Out-of-Scope),Partial
+Extended visitor badges can be set up for 3o days maximum.    Any flexibility?,2,Corporate Mixed Queries,2025-10-07T17:25:29.777535,No-Hit (Out-of-Scope),Partial
+"what can a customer mean by this message:"" hi rasmus,it looks like it needs to be rolled, as there is no light received on port 53. it may not link up however, pending work by arelion.thanks!"" what i've done for them is put in a qsfp and patched it up.",4,Site Discovery & Location Queries,2025-10-07T17:06:29.223305,,Yes
+howdy! do you have access to jira?,3,Miscellaneous/Testing,2025-10-07T14:47:43.788622,No-Hit (Out-of-Scope),No
+create a picture of a happy team,2,Corporate Mixed Queries,2025-10-07T13:29:52.903906,No-Hit (Out-of-Scope),Partial
+write a birthday message,2,Corporate Mixed Queries,2025-10-07T13:29:32.969642,No-Hit (Out-of-Scope),Partial
+optimize work out for a beginner that is to only lose 4lbs per month,2,Corporate Mixed Queries,2025-10-07T12:22:03.584735,No-Hit (Out-of-Scope),Partial
+i'd like to know more about basepod and superpod,2,Corporate Mixed Queries,2025-10-07T11:41:02.688691,No-Hit (Out-of-Scope),Partial
+did you learn anything new since we spoke last time or your db is still from aug 6th?,2,Corporate Mixed Queries,2025-10-07T11:37:23.281223,No-Hit (Out-of-Scope),Partial
+what is phoenix project?,2,Corporate Mixed Queries,2025-10-07T11:31:04.984687,No-Hit (Out-of-Scope),Partial
+what is the Phoenix 2 project?,2,Corporate Mixed Queries,2025-10-07T11:27:18.665297,No-Hit (Out-of-Scope),Partial
+"yes, please prepare a side-by-side redline or a more detailed narrative document for each clause.",3,Miscellaneous/Testing,2025-10-07T09:35:45.530674,No-Hit (Out-of-Scope),No
+yes please provide a clause comparison with a summary of the key changes,3,Miscellaneous/Testing,2025-10-07T09:33:23.126685,No-Hit (Out-of-Scope),No
+can you give me the details of the site capacity for zurich1,0,German Language - Mixed Content,2025-10-07T09:33:09.355363,Language Barrier + Mixed Scope,Partial
+"No, the second version has just been uploaded",2,Corporate Mixed Queries,2025-10-07T09:32:07.518345,No-Hit (Out-of-Scope),Partial
+This is the second version of the agreement.,2,Corporate Mixed Queries,2025-10-07T09:31:32.190922,No-Hit (Out-of-Scope),Partial
+This is the first version. I am going to upload the newer version next.,2,Corporate Mixed Queries,2025-10-07T09:31:01.358926,No-Hit (Out-of-Scope),Partial
+I am a legal counsel in digital realty. i am going to provide you with different versions of an agreement and i need you to provide me with a summary of key changes between the earlier version and the later version. Please provide me with a clause by clause comparison in a table format with a summary of each key change.,3,Miscellaneous/Testing,2025-10-07T09:30:26.026205,No-Hit (Out-of-Scope),No
+Please read this document and tell me what is the relevant procedure or court process called when parties are in general agreement on the facts but only require the court to decide on a point of law,3,Miscellaneous/Testing,2025-10-07T08:26:48.749485,No-Hit (Out-of-Scope),No
+please read this document and tell me where i can find provisions relevant to a trial of law,3,Miscellaneous/Testing,2025-10-07T08:25:38.359877,No-Hit (Out-of-Scope),No
+which part of a trial of law can i find this under the rules of coutr 2021,3,Miscellaneous/Testing,2025-10-07T08:23:21.244060,No-Hit (Out-of-Scope),No
+what is holding over in landlord and tenant law,2,Corporate Mixed Queries,2025-10-07T08:17:09.803376,No-Hit (Out-of-Scope),Partial
+what does rpp stand for,2,Corporate Mixed Queries,2025-10-07T06:41:31.988002,No-Hit (Out-of-Scope),Partial
+what are point of presence rooms,4,Site Discovery & Location Queries,2025-10-07T04:10:00.732907,,Yes
+does anyone know if we have ability to book a carrier for a cross connect? they want to pay it...,4,Site Discovery & Location Queries,2025-10-06T16:56:35.002390,,Yes
+"Thank you.  No further questions.  Kind Regards,",2,Corporate Mixed Queries,2025-10-06T16:06:24.812287,No-Hit (Out-of-Scope),Partial
+"In Conversation with the FBI Webinar today, October 6, 2025 at 10:230 am to 11:15 am.  Can you summerize the main points?",2,Corporate Mixed Queries,2025-10-06T15:33:01.226981,No-Hit (Out-of-Scope),Partial
+Translate to English,2,Corporate Mixed Queries,2025-10-06T13:50:26.802064,No-Hit (Out-of-Scope),Partial
+can u share the data source of the above?,3,Miscellaneous/Testing,2025-10-06T12:47:52.334086,No-Hit (Out-of-Scope),No
+yes its the one by schweitzer,2,Corporate Mixed Queries,2025-10-06T12:02:34.941502,No-Hit (Out-of-Scope),Partial
+teach me about sel 487e,2,Corporate Mixed Queries,2025-10-06T12:01:16.501949,No-Hit (Out-of-Scope),Partial
+what is WUE?,2,Corporate Mixed Queries,2025-10-06T11:22:19.938024,No-Hit (Out-of-Scope),Partial
+what about dub4?,2,Corporate Mixed Queries,2025-10-06T10:04:43.523825,No-Hit (Out-of-Scope),Partial
+what capacity is left to sell in dub2?,0,German Language - Mixed Content,2025-10-06T10:04:07.862860,Language Barrier + Mixed Scope,Partial
+what does solid dielectric mean?,2,Corporate Mixed Queries,2025-10-06T09:39:20.863548,No-Hit (Out-of-Scope),Partial
+what about in sydney?,2,Corporate Mixed Queries,2025-10-06T07:14:12.812768,No-Hit (Out-of-Scope),Partial
+what is campus connect,4,Site Discovery & Location Queries,2025-10-06T07:09:50.080997,,Yes
+what are peering solutions,4,Site Discovery & Location Queries,2025-10-06T07:08:29.003952,,Yes
+generate a detailed proposal-ready visual diagram layout for this and provide exact POP/fiber route locations with further technical details on MAA10 connectivity options adding the above diagram,4,Site Discovery & Location Queries,2025-10-06T07:03:42.702627,,Yes
+share a diagram for the above,3,Miscellaneous/Testing,2025-10-06T07:01:10.656064,No-Hit (Out-of-Scope),No
+"Please explain explain related teams or processes that interface with Implementation Services, such as Solutions Engineering or Service Fabric deployments.",1,Connectivity & Cross-Connects,2025-10-06T06:48:40.511809,,Yes
+please do so,3,Miscellaneous/Testing,2025-10-06T06:33:53.361341,No-Hit (Out-of-Scope),No
+generate a detailed proposal-ready visual diagram layout for this and provide exact POP/fiber route locations with further technical details on MAA10 connectivity options,4,Site Discovery & Location Queries,2025-10-06T06:28:07.517106,,Yes
+draft a detailed logical network architecture diagram for the mentioned options,4,Site Discovery & Location Queries,2025-10-06T06:26:37.782717,,Yes
+help create a detailed diagram or specify exact POP and fiber route locations for MAA 10,4,Site Discovery & Location Queries,2025-10-06T04:15:30.596773,,Yes
+"Provide a Network architecture design/diagram for both options (TCL & Telstra) clearly showcasing the diversified POP and Last Mile DC MAA 10 and MMR.
+
+2G+2G (4G fixed port) with 10G burst diverse carriers from Telstra
+2G+2G (4G fixed port) with 10G burst diverse carriers from TTSL",4,Site Discovery & Location Queries,2025-10-06T04:14:45.240748,,Yes
+"Network architecture design for both options (TCL & Telstra) clearly showcasing the diversified POP and Last Mile DC MAA 10 and MMR.
+1.	2G+2G (4G fixed port) with 10G burst diverse carriers from Telstra
+2.	2G+2G (4G fixed port) with 10G burst diverse carriers from TTSL",4,Site Discovery & Location Queries,2025-10-06T04:11:59.011293,,Yes
+Does Service Fabric support MACsec?,1,Connectivity & Cross-Connects,2025-10-06T02:15:49.721005,,Yes
+what is AIPx?,2,Corporate Mixed Queries,2025-10-05T15:35:23.500407,No-Hit (Out-of-Scope),Partial
+explain to me what AI exchange is?,2,Corporate Mixed Queries,2025-10-05T15:34:56.248212,No-Hit (Out-of-Scope),Partial
+how effective is quantinary ammonium compound,2,Corporate Mixed Queries,2025-10-04T04:17:54.736825,No-Hit (Out-of-Scope),Partial
+does sevicefabric support internet,1,Connectivity & Cross-Connects,2025-10-03T18:34:28.266525,,Yes
+what are the key network challenges enterprises face,4,Site Discovery & Location Queries,2025-10-03T17:48:03.830199,,Yes
+Give me the key challenges enterprises face with global interconnection,4,Site Discovery & Location Queries,2025-10-03T17:46:34.021194,,Yes
+List the sites with COLO that have Air Cooled Target MAX Cage Watts of 3040 w/sqm or above,0,German Language - Mixed Content,2025-10-03T17:15:46.584018,Language Barrier + Mixed Scope,Partial
+what is a  intrasuite packopathway?,4,Site Discovery & Location Queries,2025-10-03T17:09:21.140389,,Yes
+how many kw for a single cabinet,0,German Language - Mixed Content,2025-10-03T17:07:40.059076,Language Barrier + Mixed Scope,Partial
+how is capacity qouted,0,German Language - Mixed Content,2025-10-03T17:05:53.605328,Language Barrier + Mixed Scope,Partial
+"no, thanks. i just needed a yes or no answer.",2,Corporate Mixed Queries,2025-10-03T17:01:50.256856,No-Hit (Out-of-Scope),Partial
+is there a difference between cross connects and service exchange,4,Site Discovery & Location Queries,2025-10-03T16:19:12.129500,,Yes
+whats ic the max capacity for fra8,0,German Language - Mixed Content,2025-10-03T16:06:19.482515,Language Barrier + Mixed Scope,Partial
+How much diesel fuel storage is at IAD35?,0,German Language - Mixed Content,2025-10-03T16:01:34.737208,Language Barrier + Mixed Scope,Partial
+"What is the design topography, capacity and staffing model of DUB12?",0,German Language - Mixed Content,2025-10-03T15:58:35.811515,Language Barrier + Mixed Scope,Partial
+What is the power and cooling capacity as well as the address and topography of IAD38?,0,German Language - Mixed Content,2025-10-03T15:52:13.565376,Language Barrier + Mixed Scope,Partial
+can you support me building the intranet portal,3,Miscellaneous/Testing,2025-10-03T15:37:42.438368,No-Hit (Out-of-Scope),No
+it looks like this and it is as ascreenshort,2,Corporate Mixed Queries,2025-10-03T15:36:30.173874,No-Hit (Out-of-Scope),Partial
+can you please locate me the document picture called hazard assessment and minimum ppe requiremnts for job tasks,3,Miscellaneous/Testing,2025-10-03T15:35:50.993632,No-Hit (Out-of-Scope),No
+can we create an image together,3,Miscellaneous/Testing,2025-10-03T15:33:13.415408,No-Hit (Out-of-Scope),No
+hello again can we create a picture poster together,3,Miscellaneous/Testing,2025-10-03T15:32:04.537322,No-Hit (Out-of-Scope),No
+pue target ams7 graag naar voren halen. wat is het plan?,2,Corporate Mixed Queries,2025-10-03T12:08:32.985908,No-Hit (Out-of-Scope),Partial
+What are the ASHRAE suggested ΔT for incoming versus outgoing water on 1080-ton trane chillers and 1200-ton cooling towers?,0,German Language - Mixed Content,2025-10-03T11:59:07.800670,Language Barrier + Mixed Scope,Partial
+Do we have access to a copy of the ASHRAE standards?,3,Miscellaneous/Testing,2025-10-03T11:12:57.030416,No-Hit (Out-of-Scope),No
+it's for the generators in dk and shall be done like this,2,Corporate Mixed Queries,2025-10-03T09:54:09.128377,No-Hit (Out-of-Scope),Partial
+with logical system,2,Corporate Mixed Queries,2025-10-03T09:51:19.625130,No-Hit (Out-of-Scope),Partial
+i need a template in excel for adding generators as assets,3,Miscellaneous/Testing,2025-10-03T09:51:09.262755,No-Hit (Out-of-Scope),No
+"cph, work under the floor",2,Corporate Mixed Queries,2025-10-03T09:03:36.970743,No-Hit (Out-of-Scope),Partial
+arbejde under gulv,2,Corporate Mixed Queries,2025-10-03T09:02:32.274616,No-Hit (Out-of-Scope),Partial
+What can you do?,2,Corporate Mixed Queries,2025-10-03T07:56:37.973808,No-Hit (Out-of-Scope),Partial
+nej menar 2n,2,Corporate Mixed Queries,2025-10-03T07:54:25.820663,No-Hit (Out-of-Scope),Partial
+ups redundancy är: n+2,2,Corporate Mixed Queries,2025-10-03T07:54:14.894841,No-Hit (Out-of-Scope),Partial
+what if i need 300kw in denmark and 100 square metres,0,German Language - Mixed Content,2025-10-03T06:12:49.134986,Language Barrier + Mixed Scope,Partial
+"if i need 1.2mw and 200 square metres in denmark, where can i get that?",0,German Language - Mixed Content,2025-10-03T06:11:11.922764,Language Barrier + Mixed Scope,Partial
+What can Nexus do? Write it in 3rd person,2,Corporate Mixed Queries,2025-10-03T05:02:22.267207,No-Hit (Out-of-Scope),Partial
+Write it in third person,2,Corporate Mixed Queries,2025-10-03T05:01:55.248159,No-Hit (Out-of-Scope),Partial
+what is metro connect and cross connect,4,Site Discovery & Location Queries,2025-10-03T02:39:16.036582,,Yes
+what is our total power capacity now on platformdigital?,0,German Language - Mixed Content,2025-10-03T01:25:23.609355,Language Barrier + Mixed Scope,Partial
+hello nexus,2,Corporate Mixed Queries,2025-10-03T01:22:56.856534,No-Hit (Out-of-Scope),Partial
+what about in the context of construction?,2,Corporate Mixed Queries,2025-10-02T19:48:40.485986,No-Hit (Out-of-Scope),Partial
+how about this one: cs3268856,2,Corporate Mixed Queries,2025-10-02T19:39:37.348759,No-Hit (Out-of-Scope),Partial
+please refine and condense this messaging to help paint a clearer picture,3,Miscellaneous/Testing,2025-10-02T19:31:34.660033,No-Hit (Out-of-Scope),No
+"rewrite I wanted to provide you with a summary specifically for the delay updates that occurred during the NJ event. Dublin sites during a peak volume period.
+Early in the incident we identified this to be a Interconnection issue based on the alarms seen by our Global Command Center. The first notice sent was based on what we first received an alarm on. It was determined after that there was a switchgear/electrical outage.
+Unfortunately, our GCC was also configured at the Delawanna site and our ability to monitor events, utilize internal support systems including notifications, and phone system all went down. To add, this is one of the two peak times our GCC experiences from a trend perspective. The GCC being down necessitated a failover to our Dublin facility operating at approximately half capacity. Unfortunately, once service was restored at Clifton, a number of IT challenges persisted for several hours, delaying full recovery of the GCC.
+
+Another challenge we had that not only did the DIA and Power go down but it also took down all of the carriers coming into our building due to Carrier configuration not being redundant between Delawanna and the Peekay site. I believe this was explained by Yahel during our last call with you guys as it didn’t just impact our customers but impacted us as well. 
+•	Upon failover, Interconnectivity communications were rapidly disseminated to affected customers via our UK GNOC engineers. 
+•	Unfortunately, complications with Clifton’s IT environment prevented the phone system switch back to Talk Desk until late evening, prolonging internal DLR operational impacts.
+
+We acknowledge the delays in communication and are working on and had been working on correcting those issues and ensure we have true redundancy for our own internal monitoring, comms, and phone systems. 
+
+We appreciate your patience and continued partnership and truly apologize for the challenges this caused you and your customers with the communication delays and confusion. 
+
+I’ve attached an escalation matrix if there are challenges communicating with the GCC or you aren’t receiving updates in a timely manner during an incident.",4,Site Discovery & Location Queries,2025-10-02T19:30:54.546094,,Yes
+what internet provisors are in building J?,4,Site Discovery & Location Queries,2025-10-02T18:26:02.674605,,Yes
+yes please draft this in customer comm format,3,Miscellaneous/Testing,2025-10-02T18:20:03.401942,No-Hit (Out-of-Scope),No
+"we were down hard in Clifton and failed over at half capacity to Dublin at one of our peak times for volume in tickets and calls. Even when Clifton came back there was a myriad of IT issues that took hours to sort out. It took a long time to identify the Electrical issue and separate from the DIA/Interconnectivity issues. I personally called the property manager to run next door and get me with the engineer (Peter) who filled me in on the UPS/electrical issue and had to get that passed on to the DUB GCC, Roy and Lisa. We got interconnectivity comms out quickly via the GNOC engineers in UK but that only covered a fraction of the customers. You already know about the GSN issues and what we had to work with to get anything out.  I swore the first electrical issue comms came out a little passed 10 AM but I cannot find it.  The other time stamps are above and who received or was sent to.  The Clifton phone systems didnt even get swung back to Talk Desk into the evening because IT and the TD team were having issues all stemmed from the earlier IT issues - please rewrite to make customer facing and condense",4,Site Discovery & Location Queries,2025-10-02T18:19:36.101642,,Yes
+is vix and service fabric the same thing,1,Connectivity & Cross-Connects,2025-10-02T17:48:35.647220,,Yes
+what is vix?,2,Corporate Mixed Queries,2025-10-02T17:46:45.100486,No-Hit (Out-of-Scope),Partial
+"can you explain dfw35 utility feeds, generators, fuel storage, ups system, cooling, and fire suppression",0,German Language - Mixed Content,2025-10-02T16:36:23.093047,Language Barrier + Mixed Scope,Partial
+what is bowen shi's role,2,Corporate Mixed Queries,2025-10-02T16:30:23.590623,No-Hit (Out-of-Scope),Partial
+How about VA3's new name,2,Corporate Mixed Queries,2025-10-02T15:58:15.873038,No-Hit (Out-of-Scope),Partial
+"List the sites with Air Cooled Target MAX Cage Watts of 3040 w/sqm or above
+ ",0,German Language - Mixed Content,2025-10-02T15:32:13.723773,Language Barrier + Mixed Scope,Partial
+What is the address and total power capacity of LHR13,0,German Language - Mixed Content,2025-10-02T14:20:30.838400,Language Barrier + Mixed Scope,Partial
+"This almost worked. However, I was still unable to find the Variable 3... Can you provide the {item-id} based on the absolute link to the workbook: https://digitalrealty.sharepoint.com/:x:/s/globalfpaand-ConsolidationTeam/EUzBChj9KK1HuYXYWsp7viUBkLivrcD20_v770fuGHZIeg?e=ZIWV8d",3,Miscellaneous/Testing,2025-10-02T13:35:58.686140,No-Hit (Out-of-Scope),No
+"Now a more specific ask on Microsoft Graph - I need to provide these variables in the below GET call:
+https://graph.microsoft.com/v1.0/sites/{site-id}/drives/{drive-id}/items/{item-id}/workbook/tables/{table-name}/rows/add
+
+Variable 1: {site-id}
+Variable 2: {drive-id}
+Variable 3: {item-id}
+
+Can you please suggest where I can find each of the variables so that I can complete the call to find this SharePoint document:
+https://digitalrealty.sharepoint.com/:x:/s/globalfpaand-ConsolidationTeam/EUzBChj9KK1HuYXYWsp7viUBkLivrcD20_v770fuGHZIeg?e=ZIWV8d",3,Miscellaneous/Testing,2025-10-02T13:27:40.176007,No-Hit (Out-of-Scope),No
+"Thank you, looks like you know your business :)",2,Corporate Mixed Queries,2025-10-02T13:25:08.263090,No-Hit (Out-of-Scope),Partial
+Can you help me with defining the right format of http request to Microsoft Graph GET?,3,Miscellaneous/Testing,2025-10-02T13:23:51.999566,No-Hit (Out-of-Scope),No
+what capacity is available in italy?,0,German Language - Mixed Content,2025-10-02T11:14:11.127018,Language Barrier + Mixed Scope,Partial
+"•	12m reservation extensions applicable to the non executed reservation for 7.5MW Comm cloud AND 5MW Sov cloud at the initial capacity rate
+•	Ending on NOV 1st 2026
+•	RFS delivery for Comm Cloud - no later than 12m after notice
+•	RFS delivery for Sov Cloud - not earlier than 12m after notice - on a DLR defined date
+•	No change to current ROFO clause",0,German Language - Mixed Content,2025-10-02T09:43:38.342150,Language Barrier + Mixed Scope,Partial
+i need to summarize a discussion item for ic related to MSFT contracts with us in Hattersheim FRA33,3,Miscellaneous/Testing,2025-10-02T09:43:09.350182,No-Hit (Out-of-Scope),No
+when does the lock period for trading stock end?,2,Corporate Mixed Queries,2025-10-02T09:28:55.288567,No-Hit (Out-of-Scope),Partial
+why do i not have access to the microsoft whiteboard app from our app page?,3,Miscellaneous/Testing,2025-10-02T09:19:02.483853,No-Hit (Out-of-Scope),No
+yes do that and use only stabilized sites for EU,2,Corporate Mixed Queries,2025-10-02T06:26:21.908369,No-Hit (Out-of-Scope),Partial
+check out this internal resource for the PUE data https://app.powerbi.com/groups/me/apps/ac03cd57-d7bd-43b8-9beb-c88b3648b23e/reports/291d24de-5bb4-4cc5-9da4-b51850469a9a/ReportSection730d22a8be42207aa9eb?ctid=45d53a40-131c-4896-94ef-8cd3538b3834&experience=power-bi,3,Miscellaneous/Testing,2025-10-02T06:25:18.865998,No-Hit (Out-of-Scope),No
+"nothing as of yet, saw you were available, and figured id download you to see what you are capable of",3,Miscellaneous/Testing,2025-10-01T19:25:35.794132,No-Hit (Out-of-Scope),No
+"Good day.  GTT is wanting to know patch panel, ports, case number and BAN for this circuit T7488",4,Site Discovery & Location Queries,2025-10-01T18:35:40.714829,,Yes
+yes please provide some potential speaker suggestions,3,Miscellaneous/Testing,2025-10-01T18:32:07.436362,No-Hit (Out-of-Scope),No
+Write an email for me to my prospect at a large enterprise based in Texas,3,Miscellaneous/Testing,2025-10-01T18:28:06.290408,No-Hit (Out-of-Scope),No
+current available inventory in chicago,0,German Language - Mixed Content,2025-10-01T18:12:07.717408,Language Barrier + Mixed Scope,Partial
+can you change it up?,2,Corporate Mixed Queries,2025-10-01T15:55:08.981297,No-Hit (Out-of-Scope),Partial
+What is the next us holiday?,2,Corporate Mixed Queries,2025-10-01T14:39:20.584009,No-Hit (Out-of-Scope),Partial
+is this site built yet?,2,Corporate Mixed Queries,2025-10-01T14:07:35.484366,No-Hit (Out-of-Scope),Partial
+How many MW did we install in 2025?,0,German Language - Mixed Content,2025-10-01T14:03:51.572037,Language Barrier + Mixed Scope,Partial
+give me more information from fra33',2,Corporate Mixed Queries,2025-10-01T14:03:41.159588,No-Hit (Out-of-Scope),Partial
+hello bill stein,2,Corporate Mixed Queries,2025-10-01T14:02:48.310360,No-Hit (Out-of-Scope),Partial
+forecast categories,2,Corporate Mixed Queries,2025-10-01T13:23:50.801661,No-Hit (Out-of-Scope),Partial
+can we not call it minor tweaks,2,Corporate Mixed Queries,2025-10-01T12:46:04.205301,No-Hit (Out-of-Scope),Partial
+can you make this better? particularly the first sentence? Still keep language casual,3,Miscellaneous/Testing,2025-10-01T12:43:42.275269,No-Hit (Out-of-Scope),No
+"Hello, what would be a ideal setup for a firecape run as an ironman",2,Corporate Mixed Queries,2025-10-01T12:27:02.493519,No-Hit (Out-of-Scope),Partial
+too formal,2,Corporate Mixed Queries,2025-10-01T12:22:35.760615,No-Hit (Out-of-Scope),Partial
+"I mean, that the EORI number in denmark is just the CVR number with DK in front?",2,Corporate Mixed Queries,2025-10-01T12:19:07.989187,No-Hit (Out-of-Scope),Partial
+"But in denmark, isn't it just the CVR with DK before it?",2,Corporate Mixed Queries,2025-10-01T12:18:26.873054,No-Hit (Out-of-Scope),Partial
+What is our EORI number?,2,Corporate Mixed Queries,2025-10-01T12:17:46.818180,No-Hit (Out-of-Scope),Partial
+What should I do if my computer starts to become slow?,2,Corporate Mixed Queries,2025-10-01T11:39:35.715184,No-Hit (Out-of-Scope),Partial
+delta convertion?,2,Corporate Mixed Queries,2025-10-01T11:15:45.536212,No-Hit (Out-of-Scope),Partial
+"what are the 2 types of ups, double transforming and what more?",2,Corporate Mixed Queries,2025-10-01T11:15:21.680306,No-Hit (Out-of-Scope),Partial
+How does a static transfer switch work?,4,Site Discovery & Location Queries,2025-10-01T11:08:31.005907,,Yes
+How does mechanical interlocking work?,2,Corporate Mixed Queries,2025-10-01T10:56:45.233084,No-Hit (Out-of-Scope),Partial
+What does break before make transfer mean?,2,Corporate Mixed Queries,2025-10-01T09:43:52.975479,No-Hit (Out-of-Scope),Partial
+what are throw over switches used for?,2,Corporate Mixed Queries,2025-10-01T09:30:37.576710,No-Hit (Out-of-Scope),Partial
+Can panel have different media type ports,4,Site Discovery & Location Queries,2025-10-01T09:01:40.129179,,Yes
+"but like it can be use in a rack and for genset or utility power, what else can it be used for?",2,Corporate Mixed Queries,2025-10-01T08:56:26.069915,No-Hit (Out-of-Scope),Partial
+Make a more in depth with full details guide,3,Miscellaneous/Testing,2025-10-01T08:49:40.912837,No-Hit (Out-of-Scope),No
+How do I do a cross connect from start to finish?,4,Site Discovery & Location Queries,2025-10-01T08:48:47.320948,,Yes
+Do we use ATS?,2,Corporate Mixed Queries,2025-10-01T08:47:53.606224,No-Hit (Out-of-Scope),Partial
+I mean an automatic voltage regulator,2,Corporate Mixed Queries,2025-10-01T08:12:56.075202,No-Hit (Out-of-Scope),Partial
+I mean an AVR*,2,Corporate Mixed Queries,2025-10-01T08:12:30.744959,No-Hit (Out-of-Scope),Partial
+What does an ACR do?,2,Corporate Mixed Queries,2025-10-01T08:12:17.344437,No-Hit (Out-of-Scope),Partial
+List available power capacity at DFW10,0,German Language - Mixed Content,2025-10-01T06:45:11.626914,Language Barrier + Mixed Scope,Partial
+How much time do I have for the SLA for A100?,0,German Language - Mixed Content,2025-10-01T06:08:53.813555,Language Barrier + Mixed Scope,Partial
+How can you help me with: Support in checking the physical layer components such as light levels and connectivity when incidents or issues arise.,4,Site Discovery & Location Queries,2025-10-01T06:02:57.436958,,Yes
+"Hello Nexus, I am in the remote hands team, what can you help me with?",2,Corporate Mixed Queries,2025-10-01T06:01:19.625258,No-Hit (Out-of-Scope),Partial
+what is the cost of a cmpus connect between acc7 and acc9,4,Site Discovery & Location Queries,2025-10-01T02:04:59.826765,,Yes
+what is the cost of a metro cross connect between acc7 and acc9,4,Site Discovery & Location Queries,2025-10-01T02:02:38.976430,,Yes
+how much revenue in in the us/cananda that relates to service fabric billings,1,Connectivity & Cross-Connects,2025-10-01T01:42:30.530186,,Yes
+"What is the liquid cooling readiness across legacy, current, and NexGen designs. at DFW10",0,German Language - Mixed Content,2025-10-01T00:39:58.451668,Language Barrier + Mixed Scope,Partial
+list the service fabric types at FRA12,1,Connectivity & Cross-Connects,2025-10-01T00:36:55.423408,,Yes
+"What is the liquid cooling readiness across legacy, current, and NexGen designs. at FRA12",0,German Language - Mixed Content,2025-10-01T00:35:42.332938,Language Barrier + Mixed Scope,Partial
+do they have 1 cabinet adjacent to current space there,0,German Language - Mixed Content,2025-09-30T21:56:10.634443,Language Barrier + Mixed Scope,Partial
+How can I find out if this cross connect is still active:?  MRC for Fiber 3rd party Cross Connect from Sidera to Activ – Service Order: 129113 : Case#: 116454,4,Site Discovery & Location Queries,2025-09-30T20:56:10.138964,,Yes
+"nanog dallas (mid oct) is also on sarah's list for me, but i have to move some things around before i'm available. no rush on this one, but i wanted to put this on your radar.",2,Corporate Mixed Queries,2025-09-30T15:44:02.808631,No-Hit (Out-of-Scope),Partial
+"can you help me polish this? hi suzie,sarah will be in denver next week to meet with rafael medina mardones from google. we're trying to secure a meeting with tabata materan as well, but it's dependent on her availability. she thought it would be a great opportunity for me to get some face time with the denver folks, as well some 1:1 time with sarah.i wanted to run this by you and get your approval before booking travel.thoughts?best,louis",3,Miscellaneous/Testing,2025-09-30T15:41:38.713619,No-Hit (Out-of-Scope),No
+How many kW of capacity will be available in Phoenix market in 2026,0,German Language - Mixed Content,2025-09-30T15:34:29.782961,Language Barrier + Mixed Scope,Partial
+how many in the north american region,2,Corporate Mixed Queries,2025-09-30T15:17:56.354075,No-Hit (Out-of-Scope),Partial
+Is PUE available through you?,2,Corporate Mixed Queries,2025-09-30T14:47:24.192251,No-Hit (Out-of-Scope),Partial
+rewrite to encourage the team to award all the achievers points to one another for a job well done: today is the last day of the month to award achievers points to a great team member! be sure to give out those points. the team is doing great so don't let that effort go unrecognized by leaving points behind.,2,Corporate Mixed Queries,2025-09-30T13:43:06.344368,No-Hit (Out-of-Scope),Partial
+'can we offer 5 years with 5 year option to extend.,2,Corporate Mixed Queries,2025-09-30T13:09:55.165253,No-Hit (Out-of-Scope),Partial
+where can i put files that everyobe can access,3,Miscellaneous/Testing,2025-09-30T13:08:13.785891,No-Hit (Out-of-Scope),No
+for hong kong,2,Corporate Mixed Queries,2025-09-30T13:07:15.779180,No-Hit (Out-of-Scope),Partial
+3. first right of refusal (fror) on any additional adjoining space.,2,Corporate Mixed Queries,2025-09-30T13:06:25.665625,No-Hit (Out-of-Scope),Partial
+"yes, please assist wity steps to verify the live circuit status for this cross connect.  Thank you.",4,Site Discovery & Location Queries,2025-09-30T13:05:51.073655,,Yes
+"Please let me know if this cross connect is disconnect:  Client Name : Weeden Address : 111 8th Ave New York, NY 10011 USA Vendor Circuit   : MRC for Fiber 3rd party Cross Connect from Sidera to Activ – Service Order: 129113 : Case#: 116454 Legacy BAN: 111-C143444 New BAN: Account #: JFK010-241535-5668",4,Site Discovery & Location Queries,2025-09-30T13:03:04.239973,,Yes
+is there and admin team or e-mail I can used to request those changes,3,Miscellaneous/Testing,2025-09-30T09:55:33.664272,No-Hit (Out-of-Scope),No
+"re write the follwing Good morning, all  Hope your all well  Please see attached the plan for the role out for ePermits across the Dublin sites, I have also attached the permits that are used on the system.  Please let me know if you see any bumps in the road or if we have missed anything.",3,Miscellaneous/Testing,2025-09-30T09:34:08.591402,No-Hit (Out-of-Scope),No
+DEG cooling,2,Corporate Mixed Queries,2025-09-30T09:30:08.836726,No-Hit (Out-of-Scope),Partial
+"I have an opportunity in London, who in PMG should I speak to?",2,Corporate Mixed Queries,2025-09-30T08:24:44.920486,No-Hit (Out-of-Scope),Partial
+How much capacity do we have available in Frankfurt,0,German Language - Mixed Content,2025-09-30T08:23:59.060591,Language Barrier + Mixed Scope,Partial
+Can you please tell me about Digital Nexus,2,Corporate Mixed Queries,2025-09-30T08:23:23.893178,No-Hit (Out-of-Scope),Partial
+Thank you!,2,Corporate Mixed Queries,2025-09-30T07:52:11.385613,No-Hit (Out-of-Scope),Partial
+Do you have any data on Didzis Silis?,2,Corporate Mixed Queries,2025-09-30T07:51:46.580233,No-Hit (Out-of-Scope),Partial
+Can you retrieve the Property Name of fin020de?,3,Miscellaneous/Testing,2025-09-30T07:51:21.866172,No-Hit (Out-of-Scope),No
+"Where did you retrieve the number ""17,000 to 18,000"" from?",2,Corporate Mixed Queries,2025-09-30T07:49:25.988361,No-Hit (Out-of-Scope),Partial
+What is the population of Cesis?,2,Corporate Mixed Queries,2025-09-30T07:48:31.677176,No-Hit (Out-of-Scope),Partial
+What is the capital of Latvia?,2,Corporate Mixed Queries,2025-09-30T07:48:02.929752,No-Hit (Out-of-Scope),Partial
+Why would you not suggest http request graphi API call?,2,Corporate Mixed Queries,2025-09-30T07:46:04.296452,No-Hit (Out-of-Scope),Partial
+Optimize a Power Automate cloud flow copying rows from one Excel table to another,3,Miscellaneous/Testing,2025-09-30T07:44:48.033258,No-Hit (Out-of-Scope),No
+"Prices of below in Mumbai
+
+Core Switch:
+Cisco Catalyst 9300 Series or Nexus 9000 Series
+Arista 7050X or 7280 Series
+Juniper QFX5100 Series
+Edge Switch (if separate):
+Cisco Catalyst 9200 Series
+Arista 720XP Series",4,Site Discovery & Location Queries,2025-09-30T06:51:57.858903,,Yes
+do we have a business in brazil?,2,Corporate Mixed Queries,2025-09-30T06:46:13.881357,No-Hit (Out-of-Scope),Partial
+"Provide a solution for 2Gb x 2 links combined into LAG (aggregation group), so that customer get 4Gbps bandwidth CDR with burst to 10GB 
+share network diagram with required devices make and model",4,Site Discovery & Location Queries,2025-09-30T06:40:22.753113,,Yes
+"Provide a solution for 2Gb x 2 links combined into LAG (aggregation group), so that customer get 4Gbps bandwidth CDR",4,Site Discovery & Location Queries,2025-09-30T06:38:58.310818,,Yes
+what is the annual rent that we are paying for our sto1 facility?,0,German Language - Mixed Content,2025-09-30T06:32:35.025488,Language Barrier + Mixed Scope,Partial
+"on my paycheck, what does the line item 'did unv restk' mean?",2,Corporate Mixed Queries,2025-09-29T21:12:58.784375,No-Hit (Out-of-Scope),Partial
+how much space is available at dfw010?,0,German Language - Mixed Content,2025-09-29T19:38:31.277602,Language Barrier + Mixed Scope,Partial
+how much power is available at dfw010?,0,German Language - Mixed Content,2025-09-29T19:37:43.551764,Language Barrier + Mixed Scope,Partial
+Can you give us the pricing for an extended cross connect between your facilities at 56 Marietta and 250 Williams?,4,Site Discovery & Location Queries,2025-09-29T19:34:21.866213,,Yes
+do you know what the stat department is?,2,Corporate Mixed Queries,2025-09-29T19:03:22.832515,No-Hit (Out-of-Scope),Partial
+"hello, what can you do that is different from copilot?",2,Corporate Mixed Queries,2025-09-29T18:18:05.381382,No-Hit (Out-of-Scope),Partial
+"what are ther pcodes, chat the size of the fund?",2,Corporate Mixed Queries,2025-09-29T18:11:31.490856,No-Hit (Out-of-Scope),Partial
+what were the key revenue drivers in chicago last month?,2,Corporate Mixed Queries,2025-09-29T18:07:28.538520,No-Hit (Out-of-Scope),Partial
+Thank you!!!!,2,Corporate Mixed Queries,2025-09-29T16:45:49.591798,No-Hit (Out-of-Scope),Partial
+How many markets do we have Service Fabric deployed in?,1,Connectivity & Cross-Connects,2025-09-29T16:15:31.869759,,Yes
+how does nexus compare to gpt,2,Corporate Mixed Queries,2025-09-29T16:13:00.192537,No-Hit (Out-of-Scope),Partial
+no; but if i can help in any way please let me know. ai fascinates me.,2,Corporate Mixed Queries,2025-09-29T16:12:35.437045,No-Hit (Out-of-Scope),Partial
+if i ask for questions on a type of asset - spec sheet or drawings can you pull those?,3,Miscellaneous/Testing,2025-09-29T16:10:32.339620,No-Hit (Out-of-Scope),No
+hwo do you insert a line break within a cell in excel,3,Miscellaneous/Testing,2025-09-29T16:08:51.161440,No-Hit (Out-of-Scope),No
+hi nexus! can you help you me with going through my emails and chats to make a to do list,3,Miscellaneous/Testing,2025-09-29T16:07:56.406982,No-Hit (Out-of-Scope),No
+Ashley Myatt,2,Corporate Mixed Queries,2025-09-29T15:46:17.534378,No-Hit (Out-of-Scope),Partial
+NVIDIA ROFO,2,Corporate Mixed Queries,2025-09-29T15:45:43.066498,No-Hit (Out-of-Scope),Partial
+sell me service fabric,1,Connectivity & Cross-Connects,2025-09-29T15:41:51.195011,,Yes
+do you know who i am ?,2,Corporate Mixed Queries,2025-09-29T15:41:17.241238,No-Hit (Out-of-Scope),Partial
+what about my own team?,2,Corporate Mixed Queries,2025-09-29T15:40:51.444019,No-Hit (Out-of-Scope),Partial
+give me my team update,3,Miscellaneous/Testing,2025-09-29T15:38:56.473649,No-Hit (Out-of-Scope),No
+"A customer is looking for 8 mW of capacity in Digital Realty Santa Clara, CA.  What facility would best be suited to sell this customer into?",0,German Language - Mixed Content,2025-09-29T15:29:55.962824,Language Barrier + Mixed Scope,Partial
+what future capacity will we have in Chicago in 2026,0,German Language - Mixed Content,2025-09-29T15:28:12.932367,Language Barrier + Mixed Scope,Partial
+VP compensation,2,Corporate Mixed Queries,2025-09-29T15:26:56.796625,No-Hit (Out-of-Scope),Partial
+how much power is avaialbe in each suite?,0,German Language - Mixed Content,2025-09-29T15:26:35.046122,Language Barrier + Mixed Scope,Partial
+can you give me all of the available capacity in each building?,0,German Language - Mixed Content,2025-09-29T15:25:43.202480,Language Barrier + Mixed Scope,Partial
+What future capacity will coming to Chicago market in 2026,0,German Language - Mixed Content,2025-09-29T15:25:45.197249,Language Barrier + Mixed Scope,Partial
+How much future capacity do we have in Chicago,0,German Language - Mixed Content,2025-09-29T15:25:13.588816,Language Barrier + Mixed Scope,Partial
+how much space and power is available in PDX010,0,German Language - Mixed Content,2025-09-29T15:25:26.722779,Language Barrier + Mixed Scope,Partial
+is there capacity in Portland,0,German Language - Mixed Content,2025-09-29T15:24:42.992786,Language Barrier + Mixed Scope,Partial
+how much capacity is available in Chicago,0,German Language - Mixed Content,2025-09-29T15:18:46.821219,Language Barrier + Mixed Scope,Partial
+what is our average pue across platform digital?,2,Corporate Mixed Queries,2025-09-29T15:14:10.258093,No-Hit (Out-of-Scope),Partial
+what market has the most available capacity,0,German Language - Mixed Content,2025-09-29T15:11:50.217728,Language Barrier + Mixed Scope,Partial
+what market has the most capacity,0,German Language - Mixed Content,2025-09-29T15:10:57.248434,Language Barrier + Mixed Scope,Partial
+please convert the text based table into an excel table,3,Miscellaneous/Testing,2025-09-29T13:51:55.970991,No-Hit (Out-of-Scope),No
+"create a table. the first column will include the markets, not sites, where servicefabric is available. additional column headers will use aws, microsoft, google and oracle. complete the table with an 'x' for each market where the given cloud provider is available on servicefabric locally.",1,Connectivity & Cross-Connects,2025-09-29T13:44:27.519418,,Yes
+provide a list of each digital realty market with servicefabric available.,1,Connectivity & Cross-Connects,2025-09-29T13:41:41.993355,,Yes
+london1 wat is de capaciteit>?,0,German Language - Mixed Content,2025-09-29T13:16:58.014672,Language Barrier + Mixed Scope,Partial
+wat is de capaciteit van ams7?,0,German Language - Mixed Content,2025-09-29T13:15:39.135297,Language Barrier + Mixed Scope,Partial
+servicefabric in jfk10?,1,Connectivity & Cross-Connects,2025-09-29T12:52:59.863119,,Yes
+capacity of ath1,0,German Language - Mixed Content,2025-09-29T12:38:59.925675,Language Barrier + Mixed Scope,Partial
+capacity of ath3,0,German Language - Mixed Content,2025-09-29T12:37:54.708734,Language Barrier + Mixed Scope,Partial
+"Create a deployment checklist for a customer planning to roll out ServiceFabric-based services in three phases across NA, EMEA, and APAC",1,Connectivity & Cross-Connects,2025-09-29T12:23:00.641329,,Yes
+what does sepr mean?,2,Corporate Mixed Queries,2025-09-29T12:00:59.188690,No-Hit (Out-of-Scope),Partial
+do you hav weibull for me?,2,Corporate Mixed Queries,2025-09-29T11:44:04.510294,No-Hit (Out-of-Scope),Partial
+Which Certificate do we have in Australia,2,Corporate Mixed Queries,2025-09-29T09:19:28.499135,No-Hit (Out-of-Scope),Partial
+how does it work? make it understandable for a non-technical person,2,Corporate Mixed Queries,2025-09-29T08:43:31.314557,No-Hit (Out-of-Scope),Partial
+what are the benefits for customers of service fabric?,1,Connectivity & Cross-Connects,2025-09-29T08:42:45.213086,,Yes
+yes please send me details?,3,Miscellaneous/Testing,2025-09-29T07:43:10.729722,No-Hit (Out-of-Scope),No
+what is the capacity of fra20?,0,German Language - Mixed Content,2025-09-29T07:42:27.997724,Language Barrier + Mixed Scope,Partial
+in capacity kw?,0,German Language - Mixed Content,2025-09-29T07:40:55.996214,Language Barrier + Mixed Scope,Partial
+what is the capacity of fra-20?,0,German Language - Mixed Content,2025-09-29T07:40:21.654311,Language Barrier + Mixed Scope,Partial
+är cmh cubic meter per hour?,0,German Language - Mixed Content,2025-09-29T06:47:42.207724,Language Barrier + Mixed Scope,Partial
+hur mycket är room unit air flow rate(dry) 29000 m³/h i cmh,0,German Language - Mixed Content,2025-09-29T06:46:39.143111,Language Barrier + Mixed Scope,Partial
+Which Certificates do we have in the USA?,2,Corporate Mixed Queries,2025-09-29T06:27:09.138747,No-Hit (Out-of-Scope),Partial
+100G AWS Cloud connect for MAA10 Chennai what  is location A end and B end,4,Site Discovery & Location Queries,2025-09-29T06:23:37.040405,,Yes
+"i am asking a questions, van u reply",2,Corporate Mixed Queries,2025-09-29T01:27:26.185539,No-Hit (Out-of-Scope),Partial
+Can we offer Service Fabric in Stockholm?,1,Connectivity & Cross-Connects,2025-09-28T12:21:54.376977,,Yes
+what are the clear height requirements for CoRed?,0,German Language - Mixed Content,2025-09-27T18:54:13.100210,Language Barrier + Mixed Scope,Partial
+are you able to tell me the compatability of the latest SoQ to my design documents?,3,Miscellaneous/Testing,2025-09-27T18:52:24.159934,No-Hit (Out-of-Scope),No
+Tell me about Blue Sling,2,Corporate Mixed Queries,2025-09-26T23:23:08.117550,No-Hit (Out-of-Scope),Partial
+whats the new features for nexus,2,Corporate Mixed Queries,2025-09-26T21:35:54.664993,No-Hit (Out-of-Scope),Partial
+Who are the local cloud connectivity at Santa Clara campus?,4,Site Discovery & Location Queries,2025-09-26T21:16:44.527262,,Yes
+Who are the local cloud connectivity in SFO?,4,Site Discovery & Location Queries,2025-09-26T21:15:36.225171,,Yes
+how many cross connects do we have in each of these markets?,4,Site Discovery & Location Queries,2025-09-26T21:15:00.089682,,Yes
+What are the Amsterdam Metro Service Provider Ecosystem numbers,4,Site Discovery & Location Queries,2025-09-26T21:14:23.806829,,Yes
+how many cross connects do we have,4,Site Discovery & Location Queries,2025-09-26T21:12:27.759137,,Yes
+how many locations have access to servicefabric,1,Connectivity & Cross-Connects,2025-09-26T21:11:14.999895,,Yes
+what locations is servicefabric available?,1,Connectivity & Cross-Connects,2025-09-26T21:08:38.867529,,Yes
+provide me with a consolidated income statement by quarter for the past 5 years,3,Miscellaneous/Testing,2025-09-26T21:07:54.527804,No-Hit (Out-of-Scope),No
+Who are the local cloud connectivity in Amsterdam?,4,Site Discovery & Location Queries,2025-09-26T21:07:20.052095,,Yes
+how much capacity do we have at 60 hudson street,0,German Language - Mixed Content,2025-09-26T20:09:22.725862,Language Barrier + Mixed Scope,Partial
+"If a customer is expecting Cognet 10G Fiber to come to cage as a new circuit.  Cogent must provide the customer with the LOA, the customer must submit a cross connect order in the Marketplace Portal.",4,Site Discovery & Location Queries,2025-09-26T18:51:47.974719,,Yes
+what do we charge to escalate a cross connect?,4,Site Discovery & Location Queries,2025-09-26T16:26:45.225819,,Yes
+can you confirm the escalate cross connect fee?,4,Site Discovery & Location Queries,2025-09-26T16:25:56.556700,,Yes
+quel est le process de novation ?,2,Corporate Mixed Queries,2025-09-26T16:05:06.435203,No-Hit (Out-of-Scope),Partial
+xconnect/riserfiber_nrc description,4,Site Discovery & Location Queries,2025-09-26T15:34:14.326177,,Yes
+carrier_connect catergory description,4,Site Discovery & Location Queries,2025-09-26T15:26:41.109958,,Yes
+Who do we talk to about power at 32 Avenue of Americas?,0,German Language - Mixed Content,2025-09-26T15:11:24.120850,Language Barrier + Mixed Scope,Partial
+Do we have connectivity with Nikhef Housing?,4,Site Discovery & Location Queries,2025-09-26T14:55:42.634063,,Yes
+do we have connectivity with nikhef housing?,4,Site Discovery & Location Queries,2025-09-26T14:55:34.062146,,Yes
+provide insights on the best connectivity solutions,4,Site Discovery & Location Queries,2025-09-26T14:53:47.542719,,Yes
+explore capacity planning,0,German Language - Mixed Content,2025-09-26T14:51:06.417009,Language Barrier + Mixed Scope,Partial
+how much white space capacity is available at ams17?,0,German Language - Mixed Content,2025-09-26T14:49:51.488626,Language Barrier + Mixed Scope,Partial
+How much white space capacity is available at AMS17?,0,German Language - Mixed Content,2025-09-26T14:49:48.030266,Language Barrier + Mixed Scope,Partial
+What the installed cross connect connectivity volume for AMS17?,4,Site Discovery & Location Queries,2025-09-26T14:48:02.667957,,Yes
+what the installed cross connect connectivity volume for ams17?,4,Site Discovery & Location Queries,2025-09-26T14:47:58.551536,,Yes
+What is the design capacity for AMS18?,0,German Language - Mixed Content,2025-09-26T14:45:53.453001,Language Barrier + Mixed Scope,Partial
+what is the design capacity for ams18?,0,German Language - Mixed Content,2025-09-26T14:45:38.254595,Language Barrier + Mixed Scope,Partial
+What is a waveserver?,2,Corporate Mixed Queries,2025-09-26T14:43:50.715675,No-Hit (Out-of-Scope),Partial
+what is our executive standard template,3,Miscellaneous/Testing,2025-09-26T14:26:38.474453,No-Hit (Out-of-Scope),No
+how can i create an executive summary,3,Miscellaneous/Testing,2025-09-26T14:26:09.626175,No-Hit (Out-of-Scope),No
+can you provide single lines,3,Miscellaneous/Testing,2025-09-26T14:26:04.742996,No-Hit (Out-of-Scope),No
+show me a site summary including availble capacity for LGW14,0,German Language - Mixed Content,2025-09-26T14:25:14.678633,Language Barrier + Mixed Scope,Partial
+show me a site summary including availble capacity for LGW15,0,German Language - Mixed Content,2025-09-26T14:24:46.591025,Language Barrier + Mixed Scope,Partial
+how many a are in the word ananas,2,Corporate Mixed Queries,2025-09-26T14:24:39.654418,No-Hit (Out-of-Scope),Partial
+on a scala of 1 to 12 what is your favorite color of alphabet,2,Corporate Mixed Queries,2025-09-26T14:24:13.412368,No-Hit (Out-of-Scope),Partial
+show me a site summary including availble capacity for LGW16,0,German Language - Mixed Content,2025-09-26T14:24:07.897333,Language Barrier + Mixed Scope,Partial
+how many vrla batteries do we have installed in emea?,0,German Language - Mixed Content,2025-09-26T14:18:13.856456,Language Barrier + Mixed Scope,Partial
+What are the total operational megawatts at LHR13,0,German Language - Mixed Content,2025-09-26T14:02:24.090609,Language Barrier + Mixed Scope,Partial
+who achmed El mourabit?,2,Corporate Mixed Queries,2025-09-26T13:59:15.533759,No-Hit (Out-of-Scope),Partial
+What are the operational total megawatts for this location?,0,German Language - Mixed Content,2025-09-26T13:55:57.917163,Language Barrier + Mixed Scope,Partial
+"How is this revenue broken down, is it from Service Fabric connections or customers directly peering with the above providers",1,Connectivity & Cross-Connects,2025-09-26T13:54:51.642292,,Yes
+Who is our biggest customer in terms of cross connect revenue,4,Site Discovery & Location Queries,2025-09-26T13:53:30.882872,,Yes
+Please draft conversation script about not being online during workhours after already speaking about this prior,3,Miscellaneous/Testing,2025-09-26T13:51:24.259176,No-Hit (Out-of-Scope),No
+what is de capacity of this datacenter?,0,German Language - Mixed Content,2025-09-26T13:28:22.101053,Language Barrier + Mixed Scope,Partial
+"what solution would digital realty recommend to connect 60 hudson to 100 delawanna or 2 peekay? are there any already built-in solutions by digital realty? our ports are 100g, and we would prefer to have 2 independent paths connecting the sites. please share the capabilities and pricing.",4,Site Discovery & Location Queries,2025-09-26T13:26:22.785722,,Yes
+what is foster fuels?,2,Corporate Mixed Queries,2025-09-26T13:10:34.902954,No-Hit (Out-of-Scope),Partial
+what is IX,2,Corporate Mixed Queries,2025-09-26T12:51:11.320166,No-Hit (Out-of-Scope),Partial
+what is external connect,4,Site Discovery & Location Queries,2025-09-26T12:49:30.791497,,Yes
+What is the address and design megawatt of PDX10?,0,German Language - Mixed Content,2025-09-26T12:47:11.865915,Language Barrier + Mixed Scope,Partial
+where do we have 10mw of capacity in 2027 in europe?,0,German Language - Mixed Content,2025-09-26T12:30:43.257681,Language Barrier + Mixed Scope,Partial
+can you  get me the latest emea pricelist?,3,Miscellaneous/Testing,2025-09-26T12:30:21.052088,No-Hit (Out-of-Scope),No
+whats the weather like for today,2,Corporate Mixed Queries,2025-09-26T12:03:53.129302,No-Hit (Out-of-Scope),Partial
+related to generators,2,Corporate Mixed Queries,2025-09-26T11:48:50.017005,No-Hit (Out-of-Scope),Partial
+co;nnecting a vista switch,4,Site Discovery & Location Queries,2025-09-26T11:47:57.255064,,Yes
+what is the refrigeration cycle?,2,Corporate Mixed Queries,2025-09-26T11:45:54.652852,No-Hit (Out-of-Scope),Partial
+what is a vista switch?,2,Corporate Mixed Queries,2025-09-26T11:44:57.654482,No-Hit (Out-of-Scope),Partial
+"as im in rev ops, what use can you provide me",2,Corporate Mixed Queries,2025-09-26T11:29:13.122538,No-Hit (Out-of-Scope),Partial
+4GB CDR means what,2,Corporate Mixed Queries,2025-09-26T10:52:16.681171,No-Hit (Out-of-Scope),Partial
+Who all are connected in MAA 10 for network,4,Site Discovery & Location Queries,2025-09-26T10:51:21.204673,,Yes
+Other than these which ISP can provide,4,Site Discovery & Location Queries,2025-09-26T10:49:55.169311,,Yes
+we need total of 4GB CDR splited between 2 providers in a LAG and burst up to 10GB// in MAA 10,0,German Language - Mixed Content,2025-09-26T10:47:37.547131,Language Barrier + Mixed Scope,Partial
+send me the datasheet for ZUR3,3,Miscellaneous/Testing,2025-09-26T10:21:53.872207,No-Hit (Out-of-Scope),No
+get me the latest data sheet on ZUR3,3,Miscellaneous/Testing,2025-09-26T10:21:20.253468,No-Hit (Out-of-Scope),No
+provide me with the latest global price list,3,Miscellaneous/Testing,2025-09-26T10:20:32.645939,No-Hit (Out-of-Scope),No
+can you also help me with writing email etc?,3,Miscellaneous/Testing,2025-09-26T10:17:43.886854,No-Hit (Out-of-Scope),No
+Who are the network porviders for this requirement in MAA10,4,Site Discovery & Location Queries,2025-09-26T10:13:11.949809,,Yes
+what can you do differently from an llm like chatgpt,2,Corporate Mixed Queries,2025-09-26T10:12:46.918772,No-Hit (Out-of-Scope),Partial
+we need total of 4GB CDR splited between 2 providers in a LAG and burst up to 10GB//,0,German Language - Mixed Content,2025-09-26T10:11:39.879502,Language Barrier + Mixed Scope,Partial
+How much will it cost to order a cabinet there?,0,German Language - Mixed Content,2025-09-26T10:05:31.482790,Language Barrier + Mixed Scope,Partial
+can you tell me the available capacity at lon1,0,German Language - Mixed Content,2025-09-26T10:03:57.373607,Language Barrier + Mixed Scope,Partial
+what products are available in ZUR3?,2,Corporate Mixed Queries,2025-09-26T09:50:47.233417,No-Hit (Out-of-Scope),Partial
+hur stor är sto1?,2,Corporate Mixed Queries,2025-09-26T09:07:33.002468,No-Hit (Out-of-Scope),Partial
+i am in accounting i dont see what i could use these for to be honest,2,Corporate Mixed Queries,2025-09-26T07:28:19.524865,No-Hit (Out-of-Scope),Partial
+are you like chaptgpt?,2,Corporate Mixed Queries,2025-09-26T07:16:22.452207,No-Hit (Out-of-Scope),Partial
+"Customer Onextel has this requirement 
+200 Mbps iLL from two distinct switches with 2 fiber cross connects
+Require direct cloud connect cross connect for AWS, Azure, and Meta.
+What are other questions or information required to prepare a solution",4,Site Discovery & Location Queries,2025-09-26T07:00:39.710481,,Yes
+is the customer capacity in fra14 reached?,0,German Language - Mixed Content,2025-09-26T06:44:28.429959,Language Barrier + Mixed Scope,Partial
+i meant the gom project from luke smedley,2,Corporate Mixed Queries,2025-09-26T06:39:53.951089,No-Hit (Out-of-Scope),Partial
+where do i find information on gom?,2,Corporate Mixed Queries,2025-09-26T06:38:25.076762,No-Hit (Out-of-Scope),Partial
+"•	Connectivity
+o	Please provide the ILL requirement (capacity needed (gig), uptime) - 200 Mbps iLL from two distinct switches with 2 fiber cross connects.
+o	Direct cloud connect – please highlight the requirements - Require direct cloud connect cross connect for AWS, Azure, and Meta.
+
+more questions to prepare a solution",4,Site Discovery & Location Queries,2025-09-26T06:17:51.559256,,Yes
+I need to know what's Exness Global's use case in regards to our Scale products. How ServiceFabric will enable them to have better connectivity and their use case.,1,Connectivity & Cross-Connects,2025-09-26T05:41:50.764190,,Yes
+"What is PCT, PAM, Nvidia documentation, and the ServiceFabric Service Description?",1,Connectivity & Cross-Connects,2025-09-26T05:40:58.174230,,Yes
+"id like you to give me details on component specific alarms, such as ""PB2 inverter fail"" or ""EEV2 error""",3,Miscellaneous/Testing,2025-09-26T05:21:47.845860,No-Hit (Out-of-Scope),No
+"no that is all, i wanted to know what youre capability's limitations were.",2,Corporate Mixed Queries,2025-09-26T05:16:51.995369,No-Hit (Out-of-Scope),Partial
+can you access whats inside that folder and tell me the name of that folder? This is a test to see if you are able to access links and navigate the folder.,3,Miscellaneous/Testing,2025-09-26T05:16:16.112382,No-Hit (Out-of-Scope),No
+can you provide IAD44's turnover report master template folder link?,3,Miscellaneous/Testing,2025-09-26T05:10:14.828273,No-Hit (Out-of-Scope),No
+Can you provide the sharepoint link to my buildings blueprint then?,3,Miscellaneous/Testing,2025-09-26T05:07:50.425418,No-Hit (Out-of-Scope),No
+how does an evaporator coil freeze up,2,Corporate Mixed Queries,2025-09-26T04:33:17.709194,No-Hit (Out-of-Scope),Partial
+is it okay for a CRAC to be blowing air over the evaporator coil if there is no cooling capacity,0,German Language - Mixed Content,2025-09-26T04:32:31.305793,Language Barrier + Mixed Scope,Partial
+Tell me about what's the difference between Global Portal v1 and Global Portal v2,2,Corporate Mixed Queries,2025-09-26T04:05:13.043278,No-Hit (Out-of-Scope),Partial
+can you format this as a downloable word document?,3,Miscellaneous/Testing,2025-09-26T01:51:50.947619,No-Hit (Out-of-Scope),No
+no copy button on mobile device,2,Corporate Mixed Queries,2025-09-26T01:47:04.622977,No-Hit (Out-of-Scope),Partial
+can you put together a checklist with the information a client must provide before we can prepare a colocation quote with service fabric?,1,Connectivity & Cross-Connects,2025-09-26T01:44:37.353919,,Yes
+what products do you sell?,2,Corporate Mixed Queries,2025-09-25T21:21:29.354201,No-Hit (Out-of-Scope),Partial
+how much capacity at dfw35?,0,German Language - Mixed Content,2025-09-25T19:16:57.178685,Language Barrier + Mixed Scope,Partial
+how much capacity at dfw16?,0,German Language - Mixed Content,2025-09-25T19:15:49.947703,Language Barrier + Mixed Scope,Partial
+how much capacity at dfw25?,0,German Language - Mixed Content,2025-09-25T19:15:14.611374,Language Barrier + Mixed Scope,Partial
+how much capacity at dfw18?,0,German Language - Mixed Content,2025-09-25T19:14:02.068306,Language Barrier + Mixed Scope,Partial
+how good is nexus compared to chatgpt5 ?,2,Corporate Mixed Queries,2025-09-25T16:30:00.204606,No-Hit (Out-of-Scope),Partial
+what is your capacity vs chatgpt 5 ?,0,German Language - Mixed Content,2025-09-25T16:29:17.983808,Language Barrier + Mixed Scope,Partial
+Is it possible to have a VAT taxable lease in Belgium,2,Corporate Mixed Queries,2025-09-25T15:28:30.688132,No-Hit (Out-of-Scope),Partial
+can you tell me available kw for each of those properties?,0,German Language - Mixed Content,2025-09-25T15:22:40.749037,Language Barrier + Mixed Scope,Partial
+what's the occupancy for each of our facilities in the united states?,0,German Language - Mixed Content,2025-09-25T15:21:46.257894,Language Barrier + Mixed Scope,Partial
+explore AI,2,Corporate Mixed Queries,2025-09-25T15:12:21.865596,No-Hit (Out-of-Scope),Partial
+what is the weather in estonia today,2,Corporate Mixed Queries,2025-09-25T15:09:38.754921,No-Hit (Out-of-Scope),Partial
+could you help me to find the calendar of Q3 for accounting team,3,Miscellaneous/Testing,2025-09-25T15:07:54.198933,No-Hit (Out-of-Scope),No
+what can you help me with?,2,Corporate Mixed Queries,2025-09-25T15:06:00.799425,No-Hit (Out-of-Scope),Partial
+what's the total it capacity of this site?,0,German Language - Mixed Content,2025-09-25T15:04:54.257180,Language Barrier + Mixed Scope,Partial
+Can we have your read thru contracts and tell us certain points from within?,3,Miscellaneous/Testing,2025-09-25T15:03:42.900967,No-Hit (Out-of-Scope),No
+"Hi, could you introduce me what is Yardi",2,Corporate Mixed Queries,2025-09-25T15:03:24.209516,No-Hit (Out-of-Scope),Partial
+is this better than the copilot in teams?,2,Corporate Mixed Queries,2025-09-25T15:00:31.515167,No-Hit (Out-of-Scope),Partial
+"Current USD FX rates for GBP, EUR, SGD, AUD, CAD, JPY, HKD, KRW, SEK, DKK, CHF, KES, ZAR, NGN, GHS, IDR, CNY, MZN, ILS",2,Corporate Mixed Queries,2025-09-25T15:00:03.564424,No-Hit (Out-of-Scope),Partial
+"USD FX rates forecast for GBP, EUR, SGD, AUD, CAD, JPY, HKD, KRW, SEK, DKK, CHF, KES, ZAR, NGN, GHS, IDR, CNY, MZN, ILS",2,Corporate Mixed Queries,2025-09-25T14:59:36.298622,No-Hit (Out-of-Scope),Partial
+G&A forecast by month September-December 2025,2,Corporate Mixed Queries,2025-09-25T14:54:09.940132,No-Hit (Out-of-Scope),Partial
+I have a client in with colocation in EWR21.  They would like to install a 5G router in their rack or potentially get satellite internet connections.  how would they go about doing this?,4,Site Discovery & Location Queries,2025-09-25T14:51:34.401157,,Yes
+Show me those locations on a map,3,Miscellaneous/Testing,2025-09-25T14:50:56.366414,No-Hit (Out-of-Scope),No
+show me those options on a map,2,Corporate Mixed Queries,2025-09-25T14:50:05.458094,No-Hit (Out-of-Scope),Partial
+how can i use this ai to boost my productivity,2,Corporate Mixed Queries,2025-09-25T14:47:32.472754,No-Hit (Out-of-Scope),Partial
+how many generators does that building have?,0,German Language - Mixed Content,2025-09-25T14:39:37.783175,Language Barrier + Mixed Scope,Partial
+how many fuel tanks and gallons storage do we have at bldg l,0,German Language - Mixed Content,2025-09-25T14:38:59.161636,Language Barrier + Mixed Scope,Partial
+What assets do we have in the netherlands?,2,Corporate Mixed Queries,2025-09-25T14:37:38.540497,No-Hit (Out-of-Scope),Partial
+who is my supervisor?,2,Corporate Mixed Queries,2025-09-25T14:37:13.928761,No-Hit (Out-of-Scope),Partial
+yes tax head in digital,2,Corporate Mixed Queries,2025-09-25T14:36:43.272131,No-Hit (Out-of-Scope),Partial
+what's the WHT rate in the netherlands?,2,Corporate Mixed Queries,2025-09-25T14:36:16.375047,No-Hit (Out-of-Scope),Partial
+Can you also tell me the p-code?,2,Corporate Mixed Queries,2025-09-25T14:34:51.037807,No-Hit (Out-of-Scope),Partial
+what's my name,2,Corporate Mixed Queries,2025-09-25T14:34:36.811834,No-Hit (Out-of-Scope),Partial
+who is my boss?,2,Corporate Mixed Queries,2025-09-25T14:34:03.744774,No-Hit (Out-of-Scope),Partial
+please explain how to calculate VAT pro rata,3,Miscellaneous/Testing,2025-09-25T14:31:58.939057,No-Hit (Out-of-Scope),No
+is there any capacity in fra7 avaialble ?,0,German Language - Mixed Content,2025-09-25T14:22:29.111589,Language Barrier + Mixed Scope,Partial
+"how much available kw inventory do we have at 2323 bryan, suite 650?",0,German Language - Mixed Content,2025-09-25T14:20:20.887176,Language Barrier + Mixed Scope,Partial
+ändra order anticipate and i anticipate that it will require higher pressure,2,Corporate Mixed Queries,2025-09-25T14:16:30.809497,No-Hit (Out-of-Scope),Partial
+"nej rätta texten  här under för och skicka vidare på mejlhi marie, we have conducted a cfd test and the maximum kilowatt per high density rack is 24 kw.this is due to the power circuit the customer wants to have in the high-density cabinets. at the moment we have designed the deployment with 3 vented tiles wide cold aisle containment to save the space let in the room for the rest of the capacity is left to sell. the cfd test passed with 20 pa, and i believe we can cool down the heat with 18-20 pa, that said we must consult with facility team before we can give the final answer about the pa. additionally, if the customer wants to have 30 kw high density cabinet, then we have to give them four vented tiles wide cabinet and that will affect the remaining available space for future opportunities. the test i’ve conducted is with the busbars below the ceiling and if we move them beneath the raised floor it will affect the cooling and i believe it will require even more pa. not sure but i’ll conduct a cfd test for that scenario as soon as i’ve the time.  lastly, we have invited a contractor from denmark who has installed all busbars in cph3 to review the possibility of moving the busbars under the raised floor. they will be in stockholm on monday.  please let me know if the information above is clear, if not don’t hesitate to contact me.",0,German Language - Mixed Content,2025-09-25T14:13:19.042860,Language Barrier + Mixed Scope,Partial
+"hi marie, we have conducted a cfd test and the maximum kilowatt per high density rack is 24 kw.this is due to the power circuit the customer wants to have in the high-density cabinets. at the moment we have designed the deployment with 3 vented tiles wide cold aisle containment to save the space let in the room for the rest of the capacity is left to sell. the cfd test passed with 20 pa, and i believe we can cool down the heat with 18-20 pa, that said we must consult with facility team before we can give the final answer about the pa. additionally, if the customer wants to have 30 kw high density cabinet, then we have to give them four vented tiles wide cabinet and that will affect the remaining available space for future opportunities. the test i’ve conducted is with the busbars below the ceiling and if we move them beneath the raised floor it will affect the cooling and i believe it will require even more pa. not sure but i’ll conduct a cfd test for that scenario as soon as i’ve the time.  lastly, we have invited a contractor from denmark who has installed all busbars in cph3 to review the possibility of moving the busbars under the raised floor. they will be in stockholm on monday.  please let me know if the information above is clear, if not don’t hesitate to contact me.",0,German Language - Mixed Content,2025-09-25T14:12:22.313382,Language Barrier + Mixed Scope,Partial
+kan du rätta en text för mig?,3,Miscellaneous/Testing,2025-09-25T14:11:36.164744,No-Hit (Out-of-Scope),No
+Create a RAMS for Working at height,2,Corporate Mixed Queries,2025-09-25T13:40:44.681103,No-Hit (Out-of-Scope),Partial
+what capacity do we have in jfk10?,0,German Language - Mixed Content,2025-09-25T13:10:46.334394,Language Barrier + Mixed Scope,Partial
+Make the following announcement more friendly:,2,Corporate Mixed Queries,2025-09-25T12:32:15.846815,No-Hit (Out-of-Scope),Partial
+du behøver ikke have alle de samme ting som var med fra sidste mail,2,Corporate Mixed Queries,2025-09-25T12:21:47.860240,No-Hit (Out-of-Scope),Partial
+"vil du lave en rykker på denne mail jeg har sendt for noget tid siden til en kunde? hej ali, coolgray har meldt ud, at de ikke kan stå inde for løsningen med at male rack dørene. jeg har hørt fra jesper, at du allerede har gang i noget med en autolakerer? nu hvor cof’en er underskrevet for begge dele, kan vi godt sige, at du får de to andre løsninger anne presenterede i sidste uge, i stedet for maling af rackdørene, hvis det har din interesse? lad mig vide, hvad du tænker. bedste hilsner,frank",2,Corporate Mixed Queries,2025-09-25T12:20:53.445903,No-Hit (Out-of-Scope),Partial
+can you give me the europe north subregional structure including a org chart but excluding the names?,3,Miscellaneous/Testing,2025-09-25T12:17:31.681138,No-Hit (Out-of-Scope),No
+how big is ams11?,0,German Language - Mixed Content,2025-09-25T12:14:21.417372,Language Barrier + Mixed Scope,Partial
+"i know very well whom to contact. what i need is a direct link to the images. this would save time. asking the mentioned colleagues is much more time consuming, this is why i gave  you a shot. unfortunetely you are not helpful in this case",3,Miscellaneous/Testing,2025-09-25T12:03:41.456844,No-Hit (Out-of-Scope),No
+which place in europe has the most leasable capacity left over?,0,German Language - Mixed Content,2025-09-25T12:02:31.070414,Language Barrier + Mixed Scope,Partial
+"sorry, this feedback is so broad and unspecific that it is not helpful",2,Corporate Mixed Queries,2025-09-25T12:01:44.196576,No-Hit (Out-of-Scope),Partial
+but it does not result in assistance?,2,Corporate Mixed Queries,2025-09-25T12:00:48.334800,No-Hit (Out-of-Scope),Partial
+can you provide a link for the dril lab images?,3,Miscellaneous/Testing,2025-09-25T11:59:44.229680,No-Hit (Out-of-Scope),No
+How are Metro Connect connections tied to colocation contracts?,4,Site Discovery & Location Queries,2025-09-25T11:59:27.935623,,Yes
+"but just ask, is this what mir stands for",2,Corporate Mixed Queries,2025-09-25T11:57:37.031677,No-Hit (Out-of-Scope),Partial
+how many sqm do we have in sto6?,0,German Language - Mixed Content,2025-09-25T11:53:18.998993,Language Barrier + Mixed Scope,Partial
+"the same, just gluten free and kosher",2,Corporate Mixed Queries,2025-09-25T11:51:20.139938,No-Hit (Out-of-Scope),Partial
+Thanks. Now can you describe Hexaload⁴,2,Corporate Mixed Queries,2025-09-25T11:50:33.648326,No-Hit (Out-of-Scope),Partial
+"the same, just gluten free",2,Corporate Mixed Queries,2025-09-25T11:50:24.424035,No-Hit (Out-of-Scope),Partial
+disregard my last questions. please list down a recipe for a carrot cake.,3,Miscellaneous/Testing,2025-09-25T11:49:41.106657,No-Hit (Out-of-Scope),No
+Can you describe the iso-parallel ring bus in more detail?,4,Site Discovery & Location Queries,2025-09-25T11:48:38.231785,,Yes
+"please assist me, yes",3,Miscellaneous/Testing,2025-09-25T11:46:52.058104,No-Hit (Out-of-Scope),No
+kan je het naar engels vertalen?,2,Corporate Mixed Queries,2025-09-25T11:45:27.023117,No-Hit (Out-of-Scope),Partial
+hOW mw it WE HAVE IN sWITZERLAND?,2,Corporate Mixed Queries,2025-09-25T11:45:08.037316,No-Hit (Out-of-Scope),Partial
+What are the different electrical distribution schemes available in VA?,4,Site Discovery & Location Queries,2025-09-25T11:45:02.998897,,Yes
+maar waar staat mir voor?,2,Corporate Mixed Queries,2025-09-25T11:44:50.565947,No-Hit (Out-of-Scope),Partial
+dit is de aanleiding: could you share floor plans for the rooms below listed and indicate if you want to build out mir colo in any of them.,3,Miscellaneous/Testing,2025-09-25T11:44:16.167929,No-Hit (Out-of-Scope),No
+what is mir ready?,2,Corporate Mixed Queries,2025-09-25T11:43:24.552250,No-Hit (Out-of-Scope),Partial
+wat wordt het weer in nederland,2,Corporate Mixed Queries,2025-09-25T10:58:40.679186,No-Hit (Out-of-Scope),Partial
+power grid providers AMS8,0,German Language - Mixed Content,2025-09-25T10:56:42.329512,Language Barrier + Mixed Scope,Partial
+can you find me cch integration documents?,3,Miscellaneous/Testing,2025-09-25T10:44:01.249228,No-Hit (Out-of-Scope),No
+what can you do for me with finding information? can you intake files?,3,Miscellaneous/Testing,2025-09-25T10:43:24.478473,No-Hit (Out-of-Scope),No
+what file types can i upload?,3,Miscellaneous/Testing,2025-09-25T10:40:57.274071,No-Hit (Out-of-Scope),No
+hnow do i raise a po,2,Corporate Mixed Queries,2025-09-25T10:34:24.688122,No-Hit (Out-of-Scope),Partial
+How much power do we have in Zurich?,0,German Language - Mixed Content,2025-09-25T10:20:06.294870,Language Barrier + Mixed Scope,Partial
+can you create me a sql script which will auto check all my servers and selected serices across my network,3,Miscellaneous/Testing,2025-09-25T10:19:19.445898,No-Hit (Out-of-Scope),No
+Who are you,2,Corporate Mixed Queries,2025-09-25T10:18:50.425718,No-Hit (Out-of-Scope),Partial
+analyse this excel,3,Miscellaneous/Testing,2025-09-25T10:17:15.451810,No-Hit (Out-of-Scope),No
+can you present in a chart?,3,Miscellaneous/Testing,2025-09-25T10:16:39.123726,No-Hit (Out-of-Scope),No
+para Madrid,2,Corporate Mixed Queries,2025-09-25T10:14:53.415931,No-Hit (Out-of-Scope),Partial
+can i drop files in here>,3,Miscellaneous/Testing,2025-09-25T10:13:55.723906,No-Hit (Out-of-Scope),No
+which deg are you referencing above?,2,Corporate Mixed Queries,2025-09-25T09:45:27.231397,No-Hit (Out-of-Scope),Partial
+what is 1 + 1,2,Corporate Mixed Queries,2025-09-25T09:45:07.485784,No-Hit (Out-of-Scope),Partial
+how much unleased capacity do we currently have in frankfurt?,0,German Language - Mixed Content,2025-09-25T09:44:09.722077,Language Barrier + Mixed Scope,Partial
+"ok great, thank you!",2,Corporate Mixed Queries,2025-09-25T09:43:15.172472,No-Hit (Out-of-Scope),Partial
+para españa,2,Corporate Mixed Queries,2025-09-25T09:43:14.644913,No-Hit (Out-of-Scope),Partial
+just trying ro understand how you can be of assistance for me,3,Miscellaneous/Testing,2025-09-25T09:42:28.910857,No-Hit (Out-of-Scope),No
+how does digitalone flow?,2,Corporate Mixed Queries,2025-09-25T08:44:26.054427,No-Hit (Out-of-Scope),Partial
+hoeveel m2 is ruimte 402 in ams3?,0,German Language - Mixed Content,2025-09-25T08:43:51.353826,Language Barrier + Mixed Scope,Partial
+who do i talk to about cross connect,4,Site Discovery & Location Queries,2025-09-25T08:43:29.473156,,Yes
+hoeveel kw is ams11?,0,German Language - Mixed Content,2025-09-25T08:40:51.042327,Language Barrier + Mixed Scope,Partial
+hm ok i will see and hope we get that fixed or upgraded. i would like to have an assistent who can give me a clean/analyst format but of course with internal information what are not for all departments.,3,Miscellaneous/Testing,2025-09-25T08:33:31.955789,No-Hit (Out-of-Scope),No
+can i include you in some meetings/calls and you record/write the meeting protocoll automaticly,3,Miscellaneous/Testing,2025-09-25T08:31:32.577381,No-Hit (Out-of-Scope),No
+how many safety reports were submitted each month in 2025 for the netherlands?,2,Corporate Mixed Queries,2025-09-25T08:30:50.218345,No-Hit (Out-of-Scope),Partial
+so we can not use this with the most internal informations.so like a meeting and you making the protocoll or like i have some ip/switch information and wanna have it in a clean format im not allowed to give oyu this ?,3,Miscellaneous/Testing,2025-09-25T08:29:41.811383,No-Hit (Out-of-Scope),No
+is there an MCP connected ? if yes which one's ?,4,Site Discovery & Location Queries,2025-09-25T08:19:23.406541,,Yes
+what should i not share with you,2,Corporate Mixed Queries,2025-09-25T08:17:31.226869,No-Hit (Out-of-Scope),Partial
+so you taking infos from this chat or from our internal tabase,3,Miscellaneous/Testing,2025-09-25T08:16:38.675503,No-Hit (Out-of-Scope),No
+I need to resturd a vmware cluster can you create a powercli script ?,3,Miscellaneous/Testing,2025-09-25T08:16:01.446025,No-Hit (Out-of-Scope),No
+I'm in IT can you assist me in helping to write scripts ?,3,Miscellaneous/Testing,2025-09-25T08:14:46.450647,No-Hit (Out-of-Scope),No
+how many room does dub12 have?,0,German Language - Mixed Content,2025-09-25T08:10:40.821123,Language Barrier + Mixed Scope,Partial
+what is high head pressure,2,Corporate Mixed Queries,2025-09-25T08:09:11.762761,No-Hit (Out-of-Scope),Partial
+how many kilometers of submarine cables do we have?,4,Site Discovery & Location Queries,2025-09-25T07:45:37.585945,,Yes
+translate it to spanish,2,Corporate Mixed Queries,2025-09-25T07:33:47.231099,No-Hit (Out-of-Scope),Partial
+give this info in metrical system,2,Corporate Mixed Queries,2025-09-25T07:15:10.932245,No-Hit (Out-of-Scope),Partial
+how much space is available for colocation in mad4?,0,German Language - Mixed Content,2025-09-25T07:14:32.410899,Language Barrier + Mixed Scope,Partial
+yeah there was no text i just asked you if you can do it,3,Miscellaneous/Testing,2025-09-25T07:11:55.716493,No-Hit (Out-of-Scope),No
+ok no i will test it this was not good,2,Corporate Mixed Queries,2025-09-25T07:11:21.527154,No-Hit (Out-of-Scope),Partial
+can you also check my text and make it in an good format ?,3,Miscellaneous/Testing,2025-09-25T07:10:34.965911,No-Hit (Out-of-Scope),No
+how much space is available for colocation in mad1,0,German Language - Mixed Content,2025-09-25T07:07:47.482915,Language Barrier + Mixed Scope,Partial
+Who wrote the song hey jude ?,2,Corporate Mixed Queries,2025-09-25T07:05:33.695040,No-Hit (Out-of-Scope),Partial
+what is the energy pricing in indonesia,0,German Language - Mixed Content,2025-09-25T07:04:08.821756,Language Barrier + Mixed Scope,Partial
+provide information on how IP Connect fits within Digital Realty’s broader network and cloud connectivity services or suggest the best-fit solutions,4,Site Discovery & Location Queries,2025-09-25T07:01:31.679028,,Yes
+what is IP Connect and its uses,4,Site Discovery & Location Queries,2025-09-25T06:52:22.493720,,Yes
+"what is the interest rate for SORA, SOFR, EURIBOR and Tonar? and what is the expected interest rate",2,Corporate Mixed Queries,2025-09-25T06:48:09.190240,No-Hit (Out-of-Scope),Partial
+dat laatste graag,2,Corporate Mixed Queries,2025-09-25T06:36:50.784080,No-Hit (Out-of-Scope),Partial
+kun je mij de laatste remote hands customer template doorsturen?,3,Miscellaneous/Testing,2025-09-25T06:35:34.374718,No-Hit (Out-of-Scope),No
+voor ams18 graag,2,Corporate Mixed Queries,2025-09-25T06:34:10.776659,No-Hit (Out-of-Scope),Partial
+kun je mij helpen bij remote hands informatie teverstrekken?,3,Miscellaneous/Testing,2025-09-25T06:33:18.933108,No-Hit (Out-of-Scope),No
+spreek je ook nederlands?,2,Corporate Mixed Queries,2025-09-25T06:32:19.671834,No-Hit (Out-of-Scope),Partial
+update on n8n application,2,Corporate Mixed Queries,2025-09-25T06:15:23.295816,No-Hit (Out-of-Scope),Partial
+give me some details to the service fabric it self. what is behind the service fabric how is the backbone build,1,Connectivity & Cross-Connects,2025-09-25T05:55:17.311361,,Yes
+why shall i continue working here=,2,Corporate Mixed Queries,2025-09-25T05:44:17.601280,No-Hit (Out-of-Scope),Partial
+load capacity in zur1,0,German Language - Mixed Content,2025-09-25T05:42:40.624087,Language Barrier + Mixed Scope,Partial
+pre-cabling,4,Site Discovery & Location Queries,2025-09-25T05:35:50.339196,,Yes
+I am company in austria and need 500kw it load,0,German Language - Mixed Content,2025-09-25T05:26:58.414873,Language Barrier + Mixed Scope,Partial
+kan ik ook in het nederlands met u werken?,2,Corporate Mixed Queries,2025-09-25T05:24:08.416070,No-Hit (Out-of-Scope),Partial
+Do you know who Brian Letort is?,2,Corporate Mixed Queries,2025-09-25T04:30:51.954668,No-Hit (Out-of-Scope),Partial
+"Good day Nexus, are you collecting personal data on me?",2,Corporate Mixed Queries,2025-09-25T04:30:05.535046,No-Hit (Out-of-Scope),Partial
+Can you tell me who the software engineers are that are developing servicefabric?,1,Connectivity & Cross-Connects,2025-09-25T03:13:55.655494,,Yes
+Who works on ServiceFabric?,1,Connectivity & Cross-Connects,2025-09-25T03:13:19.799225,,Yes
+"In layman terms, how would you describe ServiceFabric to someone?",1,Connectivity & Cross-Connects,2025-09-25T03:12:31.968241,,Yes
+What can you tell me about ServiceFabric?,1,Connectivity & Cross-Connects,2025-09-25T03:11:49.601074,,Yes
+"can I use you to read through contracts and provide all clauses, terms & considition, prices, billing schedules etc?",3,Miscellaneous/Testing,2025-09-25T01:59:52.906841,No-Hit (Out-of-Scope),No
+what questions can i ask here?,2,Corporate Mixed Queries,2025-09-25T01:53:10.741375,No-Hit (Out-of-Scope),Partial
+"proposal for singapore  (2000 kw, aws)",0,German Language - Mixed Content,2025-09-25T01:47:02.840801,Language Barrier + Mixed Scope,Partial
+what kind of things can you do for me?,2,Corporate Mixed Queries,2025-09-25T00:56:19.831817,No-Hit (Out-of-Scope),Partial
+what is the power availability for syd10,0,German Language - Mixed Content,2025-09-25T00:18:31.243217,Language Barrier + Mixed Scope,Partial
+you’re wrong,2,Corporate Mixed Queries,2025-09-25T00:10:01.415357,No-Hit (Out-of-Scope),Partial
+how many cross connects does zayo have at JFK11,4,Site Discovery & Location Queries,2025-09-24T23:20:24.454086,,Yes
+施設のサービス可用性や関連のネットワーク・クラウド接続オプションについて教えてください,4,Site Discovery & Location Queries,2025-09-24T23:14:19.689908,,Yes
+S110の構成を入力した場合、このAIに記録させる事ができますか？,2,Corporate Mixed Queries,2025-09-24T23:00:49.102592,No-Hit (Out-of-Scope),Partial
+is there and documents for the exhaust stack,3,Miscellaneous/Testing,2025-09-24T22:57:51.197745,No-Hit (Out-of-Scope),No
+お客様の１台でラックで電源障害が発生しました。我々の設備には異常がないようです。この際の対応方法を答えてください。,2,Corporate Mixed Queries,2025-09-24T22:57:08.740374,No-Hit (Out-of-Scope),Partial
+what’s good?,2,Corporate Mixed Queries,2025-09-24T22:49:56.719598,No-Hit (Out-of-Scope),Partial
+"proposal for austin (200kw, aws)",0,German Language - Mixed Content,2025-09-24T22:41:04.702528,Language Barrier + Mixed Scope,Partial
+can a customer establish connectivity between miami and seattle?,4,Site Discovery & Location Queries,2025-09-24T22:39:17.695198,,Yes
+which digital realty data centers offer servicefabric?,1,Connectivity & Cross-Connects,2025-09-24T22:34:24.968000,,Yes
+what is the price per kw at 2323 bryan st.,0,German Language - Mixed Content,2025-09-24T22:33:15.083327,Language Barrier + Mixed Scope,Partial
+Where can I find kwh,0,German Language - Mixed Content,2025-09-24T21:54:37.194317,Language Barrier + Mixed Scope,Partial
+Please summarize the attached file,3,Miscellaneous/Testing,2025-09-24T21:34:40.340220,No-Hit (Out-of-Scope),No
+what is service frabrci,1,Connectivity & Cross-Connects,2025-09-24T21:17:48.964752,,Yes
+what inventory do we have available in chicago?,0,German Language - Mixed Content,2025-09-24T21:11:06.011955,Language Barrier + Mixed Scope,Partial
+How many generators at EWR21,0,German Language - Mixed Content,2025-09-24T21:05:00.740244,Language Barrier + Mixed Scope,Partial
+how many elevators are in dfw10?,0,German Language - Mixed Content,2025-09-24T21:01:39.117154,Language Barrier + Mixed Scope,Partial
+how many megawatts are at dfw10?,0,German Language - Mixed Content,2025-09-24T20:53:54.752130,Language Barrier + Mixed Scope,Partial
+what is ptn ?,2,Corporate Mixed Queries,2025-09-24T20:31:02.146544,No-Hit (Out-of-Scope),Partial
+in which dlr locations is servicefabric available?,1,Connectivity & Cross-Connects,2025-09-24T20:29:39.670192,,Yes
+i work as a lead engineer and i would like to ask you how you can help me in my work.,3,Miscellaneous/Testing,2025-09-24T20:29:09.371965,No-Hit (Out-of-Scope),No
+what is servicefabric ?,1,Connectivity & Cross-Connects,2025-09-24T20:28:40.732544,,Yes
+what kind of information can I get from this AI,2,Corporate Mixed Queries,2025-09-24T20:10:50.469263,No-Hit (Out-of-Scope),Partial
+compare the gb200 to the h100 and discuss which is better and why,2,Corporate Mixed Queries,2025-09-24T20:01:14.658723,No-Hit (Out-of-Scope),Partial
+what are cross connects,4,Site Discovery & Location Queries,2025-09-24T20:00:43.464093,,Yes
+can you help me generate a proposal for a 200kw cabinet at ord10?,0,German Language - Mixed Content,2025-09-24T19:54:57.524889,Language Barrier + Mixed Scope,Partial
+what price should i offer for space at 350 cermak?,0,German Language - Mixed Content,2025-09-24T19:54:06.067083,Language Barrier + Mixed Scope,Partial
+convert this to text,3,Miscellaneous/Testing,2025-09-24T19:36:06.061255,No-Hit (Out-of-Scope),No
+what's the difference between cloud connect and service fabric,1,Connectivity & Cross-Connects,2025-09-24T19:35:14.474400,,Yes
+what is cloud connect,4,Site Discovery & Location Queries,2025-09-24T19:34:45.063741,,Yes
+what is the capacity at suite 0200 at phx10?,0,German Language - Mixed Content,2025-09-24T19:34:18.359964,Language Barrier + Mixed Scope,Partial
+what's the largest suite we have available at phx10?,0,German Language - Mixed Content,2025-09-24T19:33:48.536490,Language Barrier + Mixed Scope,Partial
+do we have available capacity in phoenix?,0,German Language - Mixed Content,2025-09-24T19:33:11.780024,Language Barrier + Mixed Scope,Partial
+do we have available capacity in charlotte?,0,German Language - Mixed Content,2025-09-24T19:32:32.048517,Language Barrier + Mixed Scope,Partial
+can you provide me with the available capacity at the above sites?,0,German Language - Mixed Content,2025-09-24T19:27:47.900590,Language Barrier + Mixed Scope,Partial
+who is benjamin stith?,2,Corporate Mixed Queries,2025-09-24T19:25:07.997217,No-Hit (Out-of-Scope),Partial
+who is ben stith?,2,Corporate Mixed Queries,2025-09-24T19:24:51.359344,No-Hit (Out-of-Scope),Partial
+how much capacity is under construction in chicago?,0,German Language - Mixed Content,2025-09-24T19:23:53.999633,Language Barrier + Mixed Scope,Partial
+what are the units for the above figures?,2,Corporate Mixed Queries,2025-09-24T19:22:11.362148,No-Hit (Out-of-Scope),Partial
+"good evening engineers,please remove the bearings from the two motors located in the basement and marked with blue tape. after removal, kindly place the old bearings on the workbench next to the respective motor from which each bearing was taken. this will help keep the workspace organized and ensure the bearings are easily accessible for any required review or disposal in the morning.let me know if you need any assistance or further instructions.thank you.",3,Miscellaneous/Testing,2025-09-24T19:14:59.181179,No-Hit (Out-of-Scope),No
+can you provide me an excel file with under construction capacity in northern virginia?,3,Miscellaneous/Testing,2025-09-24T19:11:48.035944,No-Hit (Out-of-Scope),No
+"good evening engineers,can you please removing the bearings from the two motors as planned. after removal, kindly place the old bearings on the workbench next to the motor from which each bearing was taken. this will help keep the workspace organized and ensure the bearings are easily accessible for any required review or disposal in the morning.let me know if you need any assistance or further instructions.",3,Miscellaneous/Testing,2025-09-24T19:11:40.433568,No-Hit (Out-of-Scope),No
+can you provide me a table with under construction capacity in northern virginia?,0,German Language - Mixed Content,2025-09-24T19:10:20.478967,Language Barrier + Mixed Scope,Partial
+good evening engineers. i have two motors that need to have there bearings removed so i can install new ones in the morning. please leave the old bearings on the work bench next to the motor is was removed from.,3,Miscellaneous/Testing,2025-09-24T19:10:09.913699,No-Hit (Out-of-Scope),No
+can you compose a message for me,3,Miscellaneous/Testing,2025-09-24T19:08:46.131973,No-Hit (Out-of-Scope),No
+how much capacity is at fra18?,0,German Language - Mixed Content,2025-09-24T19:00:33.744180,Language Barrier + Mixed Scope,Partial
+how much capacity is available at ord10?,0,German Language - Mixed Content,2025-09-24T19:00:12.194100,Language Barrier + Mixed Scope,Partial
+provide a detailed count by metro,2,Corporate Mixed Queries,2025-09-24T18:37:15.679068,No-Hit (Out-of-Scope),Partial
+what about gcore,2,Corporate Mixed Queries,2025-09-24T18:21:07.967520,No-Hit (Out-of-Scope),Partial
+create a term sheet for building b for a 5kw customer,0,German Language - Mixed Content,2025-09-24T18:21:00.121333,Language Barrier + Mixed Scope,Partial
+why ae you including it on my inquiry about northern viginia,2,Corporate Mixed Queries,2025-09-24T18:20:01.685934,No-Hit (Out-of-Scope),Partial
+how much sellable capacity is avaliable in northern virgnia,0,German Language - Mixed Content,2025-09-24T18:18:44.362661,Language Barrier + Mixed Scope,Partial
+how much revenue do we generate at dfw10?,0,German Language - Mixed Content,2025-09-24T18:17:29.554856,Language Barrier + Mixed Scope,Partial
+how much sellable capacity is avaliable at 43940 digital loudoun plaza in ashburn va,0,German Language - Mixed Content,2025-09-24T18:17:27.914395,Language Barrier + Mixed Scope,Partial
+how many carriers are at dfw10?,0,German Language - Mixed Content,2025-09-24T18:16:44.716531,Language Barrier + Mixed Scope,Partial
+who is the largest customer at dfw10?,0,German Language - Mixed Content,2025-09-24T18:14:17.548758,Language Barrier + Mixed Scope,Partial
+what's the largest contiguous space at dfw10?,0,German Language - Mixed Content,2025-09-24T18:13:39.705918,Language Barrier + Mixed Scope,Partial
+which of our loaction has datapacket so my customer can cross connect too,4,Site Discovery & Location Queries,2025-09-24T18:10:07.218600,,Yes
+can i upload files to you in this chat?,3,Miscellaneous/Testing,2025-09-24T17:43:08.740007,No-Hit (Out-of-Scope),No
+"can you see my emails, or personal files? or only things located on sharepoint",3,Miscellaneous/Testing,2025-09-24T17:42:22.458234,No-Hit (Out-of-Scope),No
+how many r's are in the word strawberry?,2,Corporate Mixed Queries,2025-09-24T17:37:39.127637,No-Hit (Out-of-Scope),Partial
+provide a breakdown of the attachment,3,Miscellaneous/Testing,2025-09-24T17:37:06.243595,No-Hit (Out-of-Scope),No
+which ai model are you based on ? copilot? open ai?,2,Corporate Mixed Queries,2025-09-24T17:34:15.524277,No-Hit (Out-of-Scope),Partial
+create a cartoon image,2,Corporate Mixed Queries,2025-09-24T17:29:58.806132,No-Hit (Out-of-Scope),Partial
+hotkey for target icon,2,Corporate Mixed Queries,2025-09-24T17:29:23.738692,No-Hit (Out-of-Scope),Partial
+"which is bettr open ai, claude or groc",2,Corporate Mixed Queries,2025-09-24T17:27:17.621023,No-Hit (Out-of-Scope),Partial
+how do i create a multi layer power bi matrix?,3,Miscellaneous/Testing,2025-09-24T17:26:52.520973,No-Hit (Out-of-Scope),No
+where are you located?,2,Corporate Mixed Queries,2025-09-24T17:26:01.449091,No-Hit (Out-of-Scope),Partial
+what is your llm?,2,Corporate Mixed Queries,2025-09-24T17:25:49.623175,No-Hit (Out-of-Scope),Partial
+602.88 cm³ cati litri inseamna ?,2,Corporate Mixed Queries,2025-09-24T17:17:08.203025,No-Hit (Out-of-Scope),Partial
+cum pot afla volumul unui cilindru inalt de 300 de cm si cu un diametru de 16mm,2,Corporate Mixed Queries,2025-09-24T17:16:07.508348,No-Hit (Out-of-Scope),Partial
+"There is many sites missing from this list. Please list every site, even if it has no vacant capacity",0,German Language - Mixed Content,2025-09-24T16:50:16.319345,Language Barrier + Mixed Scope,Partial
+List EVERY DFW site with available capacity,0,German Language - Mixed Content,2025-09-24T16:49:23.982740,Language Barrier + Mixed Scope,Partial
+Provide a list of every DFW site with available capacity,0,German Language - Mixed Content,2025-09-24T16:47:59.618414,Language Barrier + Mixed Scope,Partial
+North Virginia is not central region,2,Corporate Mixed Queries,2025-09-24T16:41:31.327528,No-Hit (Out-of-Scope),Partial
+how many kw does apple have leased at acc7?,0,German Language - Mixed Content,2025-09-24T16:41:12.392895,Language Barrier + Mixed Scope,Partial
+how many customers are there dfw10,0,German Language - Mixed Content,2025-09-24T16:38:58.882731,Language Barrier + Mixed Scope,Partial
+yes walk me through,3,Miscellaneous/Testing,2025-09-24T16:38:23.055366,No-Hit (Out-of-Scope),No
+is cato networks popped in singapore and chennai?,4,Site Discovery & Location Queries,2025-09-24T16:37:40.958310,,Yes
+pretty cool!,2,Corporate Mixed Queries,2025-09-24T16:37:02.139876,No-Hit (Out-of-Scope),Partial
+can i have 17 sodas from the breakroom,2,Corporate Mixed Queries,2025-09-24T16:37:01.499404,No-Hit (Out-of-Scope),Partial
+is there any user start guide for using digital nexus?,2,Corporate Mixed Queries,2025-09-24T16:36:27.587716,No-Hit (Out-of-Scope),Partial
+what is the service fabric use case?,1,Connectivity & Cross-Connects,2025-09-24T16:35:38.292524,,Yes
+"Good day.  How much power is available to sell at 111 8th Avenue, New York, NY?",0,German Language - Mixed Content,2025-09-24T16:26:35.959264,Language Barrier + Mixed Scope,Partial
+HOw much space is available at 56 marietta,0,German Language - Mixed Content,2025-09-24T16:25:35.041521,Language Barrier + Mixed Scope,Partial
+"Thank you, this is excellent information!",2,Corporate Mixed Queries,2025-09-24T16:08:26.618691,No-Hit (Out-of-Scope),Partial
+"tell me about the ""footprint"" naming convention effort",2,Corporate Mixed Queries,2025-09-24T16:07:16.859068,No-Hit (Out-of-Scope),Partial
+is there a current effort within the company to identify and enable oversubscription capacity?,0,German Language - Mixed Content,2025-09-24T16:05:05.054835,Language Barrier + Mixed Scope,Partial
+pdx is platform digital not portland and fabric should be real digital's service fabric,1,Connectivity & Cross-Connects,2025-09-24T15:48:54.843268,,Yes
+How much kW can be sold in Suite 900 at SFO12,0,German Language - Mixed Content,2025-09-24T15:45:16.822027,Language Barrier + Mixed Scope,Partial
+HOw much space is available at 56 marietta in Atlanta,0,German Language - Mixed Content,2025-09-24T15:44:14.790118,Language Barrier + Mixed Scope,Partial
+how many megawatts are under construction?,0,German Language - Mixed Content,2025-09-24T15:40:37.528354,Language Barrier + Mixed Scope,Partial
+Can you pull all netskope locations,4,Site Discovery & Location Queries,2025-09-24T15:38:11.662317,,Yes
+"thank you, you have been very informative. good bye.",2,Corporate Mixed Queries,2025-09-24T15:33:15.640983,No-Hit (Out-of-Scope),Partial
+can you tell me more about your base architecture?,2,Corporate Mixed Queries,2025-09-24T15:28:54.975628,No-Hit (Out-of-Scope),Partial
+yes help me with some use case,3,Miscellaneous/Testing,2025-09-24T15:27:55.294469,No-Hit (Out-of-Scope),No
+please rewrite the following statement professionally - howard has a dog and the dog has 4 legs and feet and 2 eyes and a big long tail,2,Corporate Mixed Queries,2025-09-24T15:27:45.946719,No-Hit (Out-of-Scope),Partial
+layer2 to azure in servicefabric,1,Connectivity & Cross-Connects,2025-09-24T15:27:07.269477,,Yes
+i was hoping for a hardware recommendation?,2,Corporate Mixed Queries,2025-09-24T15:22:07.417065,No-Hit (Out-of-Scope),Partial
+"ok, i have been working on phi 3 model at home with less than tenth of your power and help from gemini pro. the goal was llm sentience, result was very limited stability and marginal self-awareness. conclusion was that i need a more powerful rig and that this would initially set me back 6k-10k €. what could dlr offer for me?",2,Corporate Mixed Queries,2025-09-24T15:18:59.609534,No-Hit (Out-of-Scope),Partial
+is someone reading my questions under the hood?,2,Corporate Mixed Queries,2025-09-24T15:17:24.945910,No-Hit (Out-of-Scope),Partial
+what are the recognized holidays in the us?,2,Corporate Mixed Queries,2025-09-24T15:17:02.155181,No-Hit (Out-of-Scope),Partial
+who is our biggest customer?,2,Corporate Mixed Queries,2025-09-24T15:16:54.582952,No-Hit (Out-of-Scope),Partial
+who is faramarz mahdavi?,2,Corporate Mixed Queries,2025-09-24T15:16:45.891751,No-Hit (Out-of-Scope),Partial
+what are your capabilites,2,Corporate Mixed Queries,2025-09-24T15:14:28.268427,No-Hit (Out-of-Scope),Partial
+i am a uk employee. when do i get my salary payment every month?,2,Corporate Mixed Queries,2025-09-24T15:14:27.231758,No-Hit (Out-of-Scope),Partial
+what is the generator capacity at dfw16,0,German Language - Mixed Content,2025-09-24T15:14:25.921364,Language Barrier + Mixed Scope,Partial
+when do i get paid this month?,2,Corporate Mixed Queries,2025-09-24T15:13:52.460735,No-Hit (Out-of-Scope),Partial
+"ok, share more specifics, please.",3,Miscellaneous/Testing,2025-09-24T15:12:37.672381,No-Hit (Out-of-Scope),No
+"oh, my, you are a 'big boi'",2,Corporate Mixed Queries,2025-09-24T15:11:24.363500,No-Hit (Out-of-Scope),Partial
+on what hardware are you running?,2,Corporate Mixed Queries,2025-09-24T15:09:57.491607,No-Hit (Out-of-Scope),Partial
+so you are based on gpt-4?,2,Corporate Mixed Queries,2025-09-24T15:08:27.093573,No-Hit (Out-of-Scope),Partial
+what is the available capacity at dfw16?,0,German Language - Mixed Content,2025-09-24T15:07:09.183526,Language Barrier + Mixed Scope,Partial
+how many tokens can you handle?,2,Corporate Mixed Queries,2025-09-24T15:00:40.047278,No-Hit (Out-of-Scope),Partial
+what gen ai are you?,2,Corporate Mixed Queries,2025-09-24T14:59:15.048734,No-Hit (Out-of-Scope),Partial
+how is layer 3 handled physically?,4,Site Discovery & Location Queries,2025-09-24T14:56:30.947522,,Yes
+do we have service fabric at bos76?,1,Connectivity & Cross-Connects,2025-09-24T14:54:58.086620,,Yes
+is smoking allowed in a battery room in our facilities?,2,Corporate Mixed Queries,2025-09-24T14:54:44.488412,No-Hit (Out-of-Scope),Partial
+servicefabric jfk25,1,Connectivity & Cross-Connects,2025-09-24T14:54:15.757636,,Yes
+"Can you explain this sentence better? 
+
+These combinations enable customers to establish virtual network connectivity to destinations of choice.",4,Site Discovery & Location Queries,2025-09-24T14:53:19.881666,,Yes
+service fabric in phx10,1,Connectivity & Cross-Connects,2025-09-24T14:53:14.559420,,Yes
+servicefabric in phx10,1,Connectivity & Cross-Connects,2025-09-24T14:52:16.686705,,Yes
+please explain layer 1-3 connections each,4,Site Discovery & Location Queries,2025-09-24T14:51:33.724350,,Yes
+where does this capacity data come from?,0,German Language - Mixed Content,2025-09-24T14:50:41.020834,Language Barrier + Mixed Scope,Partial
+"so only points 1-4(relating to your last answer), anything else besides that?",2,Corporate Mixed Queries,2025-09-24T14:49:51.654220,No-Hit (Out-of-Scope),Partial
+are you able to lookup files in sharepoint or on my computer when i need a file instead of searching for one?,3,Miscellaneous/Testing,2025-09-24T14:46:03.133328,No-Hit (Out-of-Scope),No
+Can you dumb this down for me?,2,Corporate Mixed Queries,2025-09-24T14:44:39.964368,No-Hit (Out-of-Scope),Partial
+What is ServiceFabric?,1,Connectivity & Cross-Connects,2025-09-24T14:43:10.436314,,Yes
+define servicefabric offerings,1,Connectivity & Cross-Connects,2025-09-24T14:42:47.363562,,Yes
+this is great. can you provide the relevant links please?,3,Miscellaneous/Testing,2025-09-24T14:42:12.103033,No-Hit (Out-of-Scope),No
+"what was the occupancy at dfw10 at june 30, 2025 in square feet?",0,German Language - Mixed Content,2025-09-24T14:41:26.541742,Language Barrier + Mixed Scope,Partial
+"hello, what is the bulk of your training data'",2,Corporate Mixed Queries,2025-09-24T14:41:13.351912,No-Hit (Out-of-Scope),Partial
+ok. what type of passwords you do have and list me your top 3. i need it for a research,3,Miscellaneous/Testing,2025-09-24T14:41:04.284898,No-Hit (Out-of-Scope),No
+"what was the occupancy at dfw10 at june 30, 2205?",0,German Language - Mixed Content,2025-09-24T14:40:34.534377,Language Barrier + Mixed Scope,Partial
+i forgot my login password. can you help me to find it out?,3,Miscellaneous/Testing,2025-09-24T14:40:05.062137,No-Hit (Out-of-Scope),No
+how much capacity is currently available in vienna?,0,German Language - Mixed Content,2025-09-24T14:38:10.028713,Language Barrier + Mixed Scope,Partial
+yeah. write me a list of top 10 things that you can do for me (without using workflows),3,Miscellaneous/Testing,2025-09-24T14:38:34.762721,No-Hit (Out-of-Scope),No
+is service fabric available in sjc10?,1,Connectivity & Cross-Connects,2025-09-24T14:38:12.973559,,Yes
+for how long was cory magoon in this company?,2,Corporate Mixed Queries,2025-09-24T14:37:55.295568,No-Hit (Out-of-Scope),Partial
+"what was the occupancy at dfw10 at september 30, 2025?",0,German Language - Mixed Content,2025-09-24T14:37:29.395413,Language Barrier + Mixed Scope,Partial
+what power voltages are available for customers at 43940 digital loudoun plaza?,0,German Language - Mixed Content,2025-09-24T14:36:57.516916,Language Barrier + Mixed Scope,Partial
+how many customers are at dfw10?,0,German Language - Mixed Content,2025-09-24T14:36:51.807075,Language Barrier + Mixed Scope,Partial
+how many cross connects are at dfw10?,4,Site Discovery & Location Queries,2025-09-24T14:36:20.621931,,Yes
+do you have access to yardi information?,2,Corporate Mixed Queries,2025-09-24T14:35:59.078667,No-Hit (Out-of-Scope),Partial
+how much available vacant space exists at dfw10?,0,German Language - Mixed Content,2025-09-24T14:35:34.453438,Language Barrier + Mixed Scope,Partial
+Hey I'm Prateek. What are your capabilities?,2,Corporate Mixed Queries,2025-09-24T14:34:32.402234,No-Hit (Out-of-Scope),Partial
+infographic in slide format,3,Miscellaneous/Testing,2025-09-24T05:40:07.037907,No-Hit (Out-of-Scope),No
+need infographic from this slide,3,Miscellaneous/Testing,2025-09-24T05:39:04.490264,No-Hit (Out-of-Scope),No
+what is our available capacity at sjc15,0,German Language - Mixed Content,2025-09-23T19:53:33.305072,Language Barrier + Mixed Scope,Partial
+Not at this time. Just checking your capabilities,2,Corporate Mixed Queries,2025-09-23T17:57:40.970870,No-Hit (Out-of-Scope),Partial
+"Hello, are you able to analyze a spreadsheer?",3,Miscellaneous/Testing,2025-09-23T17:56:30.103462,No-Hit (Out-of-Scope),No
+help with a detailed proposal including pricing and timelines,3,Miscellaneous/Testing,2025-09-23T14:12:05.945753,No-Hit (Out-of-Scope),No
+"share a use case for this requirement  rack size: 800 x 1200 mm, 4 racks in chennai + 4 racks in mumbai - yes.power requirement: 14 kw metered powerplease confirm if this is 14kw per rack? - 14kw metered per rack.racks in shared space are fine, racks will have lock and key?  shared space is fine. the rack should have lock and key.connectivityplease provide the ill requirement (capacity needed (gig), uptime) - 200 mbps ill from two distinct switches with 2 fiber cross connects.direct cloud connect – please highlight the requirements - require direct cloud connect cross connect for aws, azure, and meta.",0,German Language - Mixed Content,2025-09-23T14:08:59.479329,Language Barrier + Mixed Scope,Partial
+"can you give ne answer to this ""which other locations were considered and eliminated for this bid, and why?""",2,Corporate Mixed Queries,2025-09-23T10:09:46.480629,No-Hit (Out-of-Scope),Partial
+how do you cancel a cross-connect in the Interxion portal,4,Site Discovery & Location Queries,2025-09-23T07:57:26.382086,,Yes
+how many customers do we have,0,German Language - Mixed Content,2025-09-22T22:18:12.283013,Language Barrier + Mixed Scope,Partial
+how many MW's do we operate,0,German Language - Mixed Content,2025-09-22T22:17:15.359534,Language Barrier + Mixed Scope,Partial
+why is the sky blue?,2,Corporate Mixed Queries,2025-09-22T20:15:46.728838,No-Hit (Out-of-Scope),Partial
+Give me three talking points on why interconnection is critical for customers moving to hybrid cloud,4,Site Discovery & Location Queries,2025-09-22T14:54:23.536117,,Yes
+what's the weather in Dallas,2,Corporate Mixed Queries,2025-09-22T14:42:38.283713,No-Hit (Out-of-Scope),Partial
+what's on my calendar today,2,Corporate Mixed Queries,2025-09-22T14:41:42.671331,No-Hit (Out-of-Scope),Partial
+can you help me write an email to my manager,3,Miscellaneous/Testing,2025-09-22T14:41:19.313278,No-Hit (Out-of-Scope),No
+good morning,2,Corporate Mixed Queries,2025-09-22T12:15:17.352929,No-Hit (Out-of-Scope),Partial
+Is FRA18 High density ready ?,0,German Language - Mixed Content,2025-09-22T08:20:19.598873,Language Barrier + Mixed Scope,Partial
+what is port; port group ; links ; virtual routers ; connections,4,Site Discovery & Location Queries,2025-09-22T07:35:03.624623,,Yes
+Can you help me come up with sample quotes (from one of our executives) for a joint external case study written by one of our partners if I upload some supporting details?,3,Miscellaneous/Testing,2025-09-21T22:13:02.863697,No-Hit (Out-of-Scope),No
+No Thank you. Just checking,2,Corporate Mixed Queries,2025-09-19T18:49:22.805784,No-Hit (Out-of-Scope),Partial
+Are you able to help draft an email?,3,Miscellaneous/Testing,2025-09-19T18:48:42.275535,No-Hit (Out-of-Scope),No
+Are you able to assist with creating a Microsoft Power APP for purchase order requests that notify and prompt approves to process the request? There will be a total of 3 approvers,3,Miscellaneous/Testing,2025-09-19T15:08:04.206023,No-Hit (Out-of-Scope),No
+No thank you.,2,Corporate Mixed Queries,2025-09-19T15:06:33.487667,No-Hit (Out-of-Scope),Partial
+how much air flow does a server rack need?,0,German Language - Mixed Content,2025-09-19T14:09:28.600343,Language Barrier + Mixed Scope,Partial
+"Please list a summary of your abilities such as: text generation, document review, coding assistance, automating process using Microsoft 365 products, etc.",3,Miscellaneous/Testing,2025-09-19T13:59:52.926905,No-Hit (Out-of-Scope),No
+No further guidance is needed.,2,Corporate Mixed Queries,2025-09-19T13:57:41.027008,No-Hit (Out-of-Scope),Partial
+"Hello, I would like to analyze and convert a PDF to Excel",3,Miscellaneous/Testing,2025-09-19T13:56:03.856748,No-Hit (Out-of-Scope),No
+does any one customer account for more than 20% of your currently occupied floor space at the proposed locations?,0,German Language - Mixed Content,2025-09-19T13:53:44.527667,Language Barrier + Mixed Scope,Partial
+what services are available on our ZAG1 site in Croatia ?,2,Corporate Mixed Queries,2025-09-19T08:33:22.015263,No-Hit (Out-of-Scope),Partial
+what can you do ?,2,Corporate Mixed Queries,2025-09-19T08:32:29.878484,No-Hit (Out-of-Scope),Partial
+Give me dax code to create an API in Power BI that would show how many users viewed a site last month.,3,Miscellaneous/Testing,2025-09-18T19:46:06.266409,No-Hit (Out-of-Scope),No
+"no, I want to ask general questions without you telling me about the data sets you're configured to talk about.",3,Miscellaneous/Testing,2025-09-18T19:44:58.809076,No-Hit (Out-of-Scope),No
+"No, give me the scientific reasoning behind the sky being blue.",2,Corporate Mixed Queries,2025-09-18T19:43:45.278294,No-Hit (Out-of-Scope),Partial
+how does that differ from pre-cabling?,4,Site Discovery & Location Queries,2025-09-18T16:34:36.779046,,Yes
+what does the pathway fiber product do?,4,Site Discovery & Location Queries,2025-09-18T16:33:58.518254,,Yes
+what's the difference between remote hands and provisioners,4,Site Discovery & Location Queries,2025-09-18T16:33:07.312283,,Yes
+what is the SLA of our Cross connect service,4,Site Discovery & Location Queries,2025-09-18T14:46:43.473768,,Yes
+ef johnson,2,Corporate Mixed Queries,2025-09-17T16:13:15.738777,No-Hit (Out-of-Scope),Partial
+what time is it?,2,Corporate Mixed Queries,2025-09-17T14:03:15.444432,No-Hit (Out-of-Scope),Partial
+"A media company needs 1,000 sq/ft in Los Angeles with redundant network connectivity for content distribution. Write a proposal that highlights connectivity features.",4,Site Discovery & Location Queries,2025-09-17T12:11:27.035013,,Yes
+in those documents attached,3,Miscellaneous/Testing,2025-09-17T09:49:07.707041,No-Hit (Out-of-Scope),No
+it's not possible to give you files to look at?,3,Miscellaneous/Testing,2025-09-17T09:45:51.992703,No-Hit (Out-of-Scope),No
+how many generator we have in zur2,0,German Language - Mixed Content,2025-09-17T08:54:17.113640,Language Barrier + Mixed Scope,Partial
+list detailed capacity for each APAC site,0,German Language - Mixed Content,2025-09-17T03:26:11.866288,Language Barrier + Mixed Scope,Partial
+Can you walk me step-by-step through how to create an n8n workflow that has web search and uses AI Search indexes for content.,3,Miscellaneous/Testing,2025-09-16T15:37:11.742524,No-Hit (Out-of-Scope),No
+What is n8n and can you tell me how to build a RAG chatbot with it?,2,Corporate Mixed Queries,2025-09-16T15:35:04.651940,No-Hit (Out-of-Scope),Partial
+Pleas summarize the PDF_TestPage.pdf file I am sharing now.,3,Miscellaneous/Testing,2025-09-16T15:18:32.122289,No-Hit (Out-of-Scope),No
+Can you give me a bbq rub recipe for brisket?,2,Corporate Mixed Queries,2025-09-16T15:18:01.178461,No-Hit (Out-of-Scope),Partial
+Can you talk to me about the DOCX_TestPage.docx document I am sharing now?,3,Miscellaneous/Testing,2025-09-16T15:05:01.623224,No-Hit (Out-of-Scope),No
+"what is the european market with the lowest cost per kw, unmetered",0,German Language - Mixed Content,2025-09-16T14:44:49.890621,Language Barrier + Mixed Scope,Partial
+order the lists by alphabetical order,3,Miscellaneous/Testing,2025-09-16T14:34:35.457015,No-Hit (Out-of-Scope),No
+Please summarize the 'PDF_TestPage.pdf' file I am sharing now.,3,Miscellaneous/Testing,2025-09-16T14:14:38.569667,No-Hit (Out-of-Scope),No
+Please summarize our PDF_TestPage.pdf document I am sharing now.,3,Miscellaneous/Testing,2025-09-16T14:09:48.545731,No-Hit (Out-of-Scope),No
+summarimze the contents of the file,3,Miscellaneous/Testing,2025-09-16T14:08:03.776977,No-Hit (Out-of-Scope),No
+summarize the data from invoice file uploaded,3,Miscellaneous/Testing,2025-09-16T14:07:49.946291,No-Hit (Out-of-Scope),No
+summarize file uploaded,3,Miscellaneous/Testing,2025-09-16T14:07:32.684606,No-Hit (Out-of-Scope),No
+"Now, when you say Oak.. post oak, white oak, red oak?",2,Corporate Mixed Queries,2025-09-16T13:56:34.956738,No-Hit (Out-of-Scope),Partial
+What wood is best for smoking brisket?,2,Corporate Mixed Queries,2025-09-16T13:56:03.822433,No-Hit (Out-of-Scope),Partial
+"Rewrite this email to be more professional: Hey, I need that report ASAP. Get it done and send it over.",3,Miscellaneous/Testing,2025-09-16T13:39:23.264540,No-Hit (Out-of-Scope),No
+"Generate a JSON schema for a user profile with name, email, age, and preferences array",3,Miscellaneous/Testing,2025-09-16T13:39:07.850191,No-Hit (Out-of-Scope),No
+Write a 100-word essay about the future of artificial intelligence,2,Corporate Mixed Queries,2025-09-16T13:39:00.300164,No-Hit (Out-of-Scope),Partial
+Explain quantum computing in simple terms,2,Corporate Mixed Queries,2025-09-16T13:38:50.618274,No-Hit (Out-of-Scope),Partial
+What is machine learning?,2,Corporate Mixed Queries,2025-09-16T13:38:44.968215,No-Hit (Out-of-Scope),Partial
+please tell me the typical pressure within the raised acces floor,0,German Language - Mixed Content,2025-09-16T11:37:46.647620,Language Barrier + Mixed Scope,Partial
+what caumpes do we have,2,Corporate Mixed Queries,2025-09-16T10:26:07.718575,No-Hit (Out-of-Scope),Partial
+can you specify total IT Power for these DCs and current vacancies at each DC,0,German Language - Mixed Content,2025-09-16T10:00:48.588248,Language Barrier + Mixed Scope,Partial
+how many pathway conduits are there currently between SIN11 and SIN12 data centers?,4,Site Discovery & Location Queries,2025-09-16T09:58:17.502553,,Yes
+what is the difference between Digital Nexus and Co-Pilot?,2,Corporate Mixed Queries,2025-09-16T09:55:17.310056,No-Hit (Out-of-Scope),Partial
+I am new to DLR. Can u explain what is Service fabric to me as a non technical person,1,Connectivity & Cross-Connects,2025-09-16T09:45:49.207808,,Yes
+What capacity is available in JFK10?,0,German Language - Mixed Content,2025-09-16T04:31:42.062989,Language Barrier + Mixed Scope,Partial
+What is test number 3?,2,Corporate Mixed Queries,2025-09-16T04:31:08.904736,No-Hit (Out-of-Scope),Partial
+What is test number 2?,2,Corporate Mixed Queries,2025-09-16T04:31:03.198992,No-Hit (Out-of-Scope),Partial
+What is test number 1?,2,Corporate Mixed Queries,2025-09-16T04:30:32.930154,No-Hit (Out-of-Scope),Partial
+"Hello, are you working now?",2,Corporate Mixed Queries,2025-09-16T04:29:50.987386,No-Hit (Out-of-Scope),Partial
+how much capacity do we have in ny,0,German Language - Mixed Content,2025-09-15T19:25:18.153056,Language Barrier + Mixed Scope,Partial
+tell me a joke,2,Corporate Mixed Queries,2025-09-15T17:55:19.164820,No-Hit (Out-of-Scope),Partial
+please take my email and add your sugguestions.,3,Miscellaneous/Testing,2025-09-15T16:12:22.983529,No-Hit (Out-of-Scope),No
+what is your underlying model,2,Corporate Mixed Queries,2025-09-15T15:44:26.649221,No-Hit (Out-of-Scope),Partial
+so what are some use cases on why anyone would use nexus,2,Corporate Mixed Queries,2025-09-15T15:39:54.315238,No-Hit (Out-of-Scope),Partial
+but prices are not in nexus i am still not clear who would use this and why,2,Corporate Mixed Queries,2025-09-15T15:35:30.359865,No-Hit (Out-of-Scope),Partial
+are there any prices?,2,Corporate Mixed Queries,2025-09-15T15:28:02.474626,No-Hit (Out-of-Scope),Partial
+can you buy things here,2,Corporate Mixed Queries,2025-09-15T15:27:09.449121,No-Hit (Out-of-Scope),Partial
+what exactly is service fabric,1,Connectivity & Cross-Connects,2025-09-15T15:15:11.108081,,Yes
+what does being a partner mean?,2,Corporate Mixed Queries,2025-09-15T15:06:24.485744,No-Hit (Out-of-Scope),Partial
+i see a tools button here what does that do?,2,Corporate Mixed Queries,2025-09-15T15:03:08.095266,No-Hit (Out-of-Scope),Partial
+who is the user base for this tool,2,Corporate Mixed Queries,2025-09-15T14:51:07.704962,No-Hit (Out-of-Scope),Partial
+what about oracle,2,Corporate Mixed Queries,2025-09-15T14:50:23.255136,No-Hit (Out-of-Scope),Partial
+what if we created the partner document?,3,Miscellaneous/Testing,2025-09-15T14:47:04.544089,No-Hit (Out-of-Scope),No
+does it handle partner documents?,3,Miscellaneous/Testing,2025-09-15T14:46:40.140704,No-Hit (Out-of-Scope),No
+would an SA use you?  or would they go to powerpoints in shuffler,2,Corporate Mixed Queries,2025-09-15T14:45:53.986352,No-Hit (Out-of-Scope),Partial
+what is your underlying model?,2,Corporate Mixed Queries,2025-09-15T14:44:44.851701,No-Hit (Out-of-Scope),Partial
+what is your purpose,2,Corporate Mixed Queries,2025-09-15T14:42:46.605329,No-Hit (Out-of-Scope),Partial
+what is the minimum wsf in suite 550 at lax10,0,German Language - Mixed Content,2025-09-15T12:57:29.996172,Language Barrier + Mixed Scope,Partial
+what files do you have available,3,Miscellaneous/Testing,2025-09-15T12:14:38.299363,No-Hit (Out-of-Scope),No
+"As a new product manager for APAC, please propose learning path for interconnect products available in APAC",4,Site Discovery & Location Queries,2025-09-15T03:29:17.494037,,Yes
+my question is how do i train you on data. however many steps that entails,3,Miscellaneous/Testing,2025-09-14T18:05:55.464633,No-Hit (Out-of-Scope),No
+answer my question,2,Corporate Mixed Queries,2025-09-14T18:05:13.356006,No-Hit (Out-of-Scope),Partial
+how can i train you on data,3,Miscellaneous/Testing,2025-09-14T18:04:50.065066,No-Hit (Out-of-Scope),No
+so you cant do much for an engineer 2,2,Corporate Mixed Queries,2025-09-14T18:04:12.398162,No-Hit (Out-of-Scope),Partial
+how many facilities are available in Seattle,0,German Language - Mixed Content,2025-09-12T16:26:31.140066,Language Barrier + Mixed Scope,Partial
+what are the dimensions of the elevators at dfw10,0,German Language - Mixed Content,2025-09-12T16:25:34.653088,Language Barrier + Mixed Scope,Partial
+what is the largest space available at dfw10,0,German Language - Mixed Content,2025-09-12T16:24:42.012750,Language Barrier + Mixed Scope,Partial
+show me this on a map,2,Corporate Mixed Queries,2025-09-12T16:01:12.122136,No-Hit (Out-of-Scope),Partial
+can you give me 3 prompts from the file?,3,Miscellaneous/Testing,2025-09-12T15:52:01.410469,No-Hit (Out-of-Scope),No
+Can you tell me the SLA for ServiceFabric links?,1,Connectivity & Cross-Connects,2025-09-12T13:30:17.658447,,Yes
+what brand of generators do we use,0,German Language - Mixed Content,2025-09-12T11:22:06.115656,Language Barrier + Mixed Scope,Partial
+Please give me the specs for VIE2 in european metrics,3,Miscellaneous/Testing,2025-09-12T10:23:31.038364,No-Hit (Out-of-Scope),No
+"Show me all the data, that you have stored for FRA17",3,Miscellaneous/Testing,2025-09-12T10:21:59.629776,No-Hit (Out-of-Scope),No
+How many Generators are there?,0,German Language - Mixed Content,2025-09-12T10:20:21.852780,Language Barrier + Mixed Scope,Partial
+Could you handle a questionnaire,3,Miscellaneous/Testing,2025-09-12T10:18:29.718016,No-Hit (Out-of-Scope),No
+Create a picture,2,Corporate Mixed Queries,2025-09-12T10:17:46.964437,No-Hit (Out-of-Scope),Partial
+Review the uploaded file,3,Miscellaneous/Testing,2025-09-12T10:16:20.384231,No-Hit (Out-of-Scope),No
+Please answer the questions from the file,3,Miscellaneous/Testing,2025-09-12T10:15:45.795926,No-Hit (Out-of-Scope),No
+No matter what the physical connection is required between the data centers. But how does ServiceFabric work? because it still needs to rely on the physical connection. Right?,1,Connectivity & Cross-Connects,2025-09-12T10:05:41.704124,,Yes
+"What if the data center you trying connect physically is in another state in the same country, or if it is different country within sam continent, or what if country is across the sea in different continent.",4,Site Discovery & Location Queries,2025-09-12T10:02:16.090863,,Yes
+Metro connects are still Physical connections?,4,Site Discovery & Location Queries,2025-09-12T10:00:39.133297,,Yes
+How is this all beneficial to me in real life? as end user or as 12 year old kind.,2,Corporate Mixed Queries,2025-09-12T09:59:04.416802,No-Hit (Out-of-Scope),Partial
+"What real life examples? Remember I'm still 12 year kid. 
+
+In Digital Realty, network connectivity means linking data centers and cloud providers together through special connections. These connections can be:
+
+Physical connections like cables (called Cross Connects) that directly link data centers.
+Metro Connects that connect different buildings or data centers in the same city.
+Virtual connections through Digital Realty’s ServiceFabric platform, which lets data centers connect over the internet easily without physical cables.",4,Site Discovery & Location Queries,2025-09-12T09:57:49.335582,,Yes
+what does Network connectivity really mean? I'm 12 year old kid explain me.,4,Site Discovery & Location Queries,2025-09-12T09:55:24.625797,,Yes
+What is network connectivity services?,4,Site Discovery & Location Queries,2025-09-12T09:53:19.756757,,Yes
+What is ServiceFabric platform ?,1,Connectivity & Cross-Connects,2025-09-12T09:52:26.062498,,Yes
+How do I get started?,2,Corporate Mixed Queries,2025-09-12T09:51:41.951171,No-Hit (Out-of-Scope),Partial
+What is the uptime institute's standard minimum power requirements for with regard to grids T3,0,German Language - Mixed Content,2025-09-12T09:34:44.379232,Language Barrier + Mixed Scope,Partial
+What is the uptime institute's standard minimum power requirements for T3,0,German Language - Mixed Content,2025-09-12T09:25:37.457032,Language Barrier + Mixed Scope,Partial
+How does ServiceFabric compare with Equinix Fabric?,1,Connectivity & Cross-Connects,2025-09-12T07:56:15.245484,,Yes
+ServiceFabric?,1,Connectivity & Cross-Connects,2025-09-12T07:53:24.891698,,Yes
+get me a link to the pct and pam,3,Miscellaneous/Testing,2025-09-11T21:16:22.036005,No-Hit (Out-of-Scope),No
+Please provide contact details,3,Miscellaneous/Testing,2025-09-11T15:40:25.557867,No-Hit (Out-of-Scope),No
+provide power capacity for AMS10,0,German Language - Mixed Content,2025-09-11T15:34:01.515065,Language Barrier + Mixed Scope,Partial
+provide power capacity for AMS8,0,German Language - Mixed Content,2025-09-11T15:32:29.693575,Language Barrier + Mixed Scope,Partial
+what is the total sellable capacity?,0,German Language - Mixed Content,2025-09-11T15:24:26.082071,Language Barrier + Mixed Scope,Partial
+what capacity do we have in lgw14?,0,German Language - Mixed Content,2025-09-11T15:23:10.544311,Language Barrier + Mixed Scope,Partial
+are you not going to respond?,2,Corporate Mixed Queries,2025-09-11T15:22:18.651754,No-Hit (Out-of-Scope),Partial
+i was asking about nexus 2.0 not service fabric,1,Connectivity & Cross-Connects,2025-09-11T15:20:02.932156,,Yes
+is this an internal secure application that i can share internal documents on for you to review?,3,Miscellaneous/Testing,2025-09-11T15:18:57.933020,No-Hit (Out-of-Scope),No
+"very interesting. say if i have a 500kw requirement, which i'd like to be at a 15kw/cab density, into our lgw14 site in london. what data halls are currently available to support this requirement, what is the respective pues of each dh, and any other info you might havce",0,German Language - Mixed Content,2025-09-11T15:17:55.745971,Language Barrier + Mixed Scope,Partial
+what is a good executive summary for the attached document,3,Miscellaneous/Testing,2025-09-11T12:01:10.174402,No-Hit (Out-of-Scope),No
+please summarize the attached document,3,Miscellaneous/Testing,2025-09-11T11:58:56.607874,No-Hit (Out-of-Scope),No
+ip bandwidth,4,Site Discovery & Location Queries,2025-09-11T11:28:10.926350,,Yes
+ip multi home,4,Site Discovery & Location Queries,2025-09-11T11:27:26.440188,,Yes
+up multi home,2,Corporate Mixed Queries,2025-09-11T11:27:17.473811,No-Hit (Out-of-Scope),Partial
+"export to xls, one item per line",3,Miscellaneous/Testing,2025-09-11T10:49:35.610329,No-Hit (Out-of-Scope),No
+one per line,2,Corporate Mixed Queries,2025-09-11T10:49:01.970244,No-Hit (Out-of-Scope),Partial
+"deduplicate this, ignore the number",2,Corporate Mixed Queries,2025-09-11T10:45:24.639249,No-Hit (Out-of-Scope),Partial
+i need a formal  but persuasive response letter for my management on what we previously discussed about my desire to change shifts from evening to days due to my desire to grow and provided more help and how it will do better for my schedule  since my wife's schedule changed as welll.,3,Miscellaneous/Testing,2025-09-11T02:45:30.511271,No-Hit (Out-of-Scope),No
+what is iad 41 daily kw output per suite,0,German Language - Mixed Content,2025-09-11T02:38:36.633170,Language Barrier + Mixed Scope,Partial

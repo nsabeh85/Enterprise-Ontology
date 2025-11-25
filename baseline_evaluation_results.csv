@@ -1,0 +1,20 @@
+query,success,citations,latency,cluster,citation_score
+how many megawatts is available in DFW10?,True,Good,4.1,2,2
+what sites have 5MW capacity in Texas?,True,Good,9.4,2,2
+what is DFW35 electrical capacity and redundancy,True,Good,4.0,2,2
+what is the total capacity at Chicago facilities?,False,Partial,6.3,2,1
+sites with 200KW available in Frankfurt,True,Good,16.5,2,2
+power specifications for PHX10 data center,True,Good,8.4,2,2
+what data centers are in EMEA region?,False,Poor,24.8,3,0
+list all Digital Realty facilities in California,False,Partial,4.3,3,1
+PUE ratings for Frankfurt data centers,False,Poor,6.2,3,0
+new sites opened in North America in 2025,True,Good,10.7,3,2
+which sites have liquid cooling in AMER?,False,Partial,24.7,3,1
+data centers with Tier III certification in Europe,False,Partial,10.0,3,1
+list available sites in Singapore with high density support,True,Good,29.0,3,2
+is ServiceFabric available at DFW10?,True,Good,4.3,4,2
+where is ServiceFabric available in Europe?,True,Good,11.8,4,2
+can ServiceFabric connect to AWS?,True,Good,5.4,4,2
+ServiceFabric availability in Phoenix,True,Good,5.7,4,2
+how does ServiceFabric work with Azure?,True,Good,8.3,4,2
+ServiceFabric latency between DFW10 and AWS,True,Good,15.8,4,2
