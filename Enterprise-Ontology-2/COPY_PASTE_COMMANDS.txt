@@ -1,0 +1,42 @@
+================================================================================
+COPY AND PASTE THESE COMMANDS INTO YOUR TERMINAL
+================================================================================
+
+TERMINAL 1 - Backend API:
+--------------------------
+cd /Users/NSabeh/Desktop/nexus-dashboard/Enterprise-Ontology-2/dashboard/api
+python3 -m uvicorn main:app --port 8000 --host 127.0.0.1
+
+Wait for: "Application startup complete"
+
+
+TERMINAL 2 - Frontend:
+----------------------
+cd /Users/NSabeh/Desktop/nexus-dashboard/Enterprise-Ontology-2/dashboard/web
+npm run dev
+
+Wait for: "Local: http://localhost:3000" (or similar)
+
+
+THEN OPEN IN BROWSER:
+---------------------
+Open the URL shown in Terminal 2 (usually http://localhost:3000)
+
+
+IF YOU GET PERMISSION ERRORS:
+------------------------------
+Try different ports:
+
+Backend:
+  python3 -m uvicorn main:app --port 8888 --host 127.0.0.1
+
+Frontend will auto-select an available port if 3000 is blocked.
+
+
+TEST BACKEND:
+-------------
+curl http://localhost:8000/api/status
+
+Should return JSON, not "connection refused"
+
+================================================================================
